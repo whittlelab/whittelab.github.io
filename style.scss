@@ -35,8 +35,8 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
+  line-height: 1.5;
+  margin: 1em 0 0px;
   padding: 0;
 
   @include mobile {
@@ -50,6 +50,13 @@ h1 {
     color: inherit;
   }
 }
+
+h2 {
+  a {
+    color: inherit;
+  }
+}
+
 
 h2 {
   font-size: 24px;
@@ -156,7 +163,8 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  padding-bottom: 14px;
+  border-bottom: 3px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -165,7 +173,7 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
+  width: 223px;
   height: 70px;
   margin-right: 15px;
 
@@ -212,9 +220,11 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  // margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 35px;
+  margin-bottom: 0px;
   font-family: $helveticaNeue;
-  font-size: 18px;
+  // font-size: 18px;
 
   @include mobile {
     float: none;
@@ -225,10 +235,12 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    // color: $darkGray;
+    color: black;
     text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+    // font-weight: bold;
+    font-size: 29px;
+    // letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
@@ -243,7 +255,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 3px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -269,6 +281,24 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+}
+
+.paperinfo {
+  // font-size: 20px;
+}
+
+.entry p {
+  margin-top: 10px;
+}
+
+.entry img
+{
+  margin: 0 auto;
+  display: block;
+}
+
+.entry-front a {
+    color: inherit;
 }
 
 .wrapper-footer {

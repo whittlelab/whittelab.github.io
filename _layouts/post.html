@@ -3,15 +3,25 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <h2>{{ page.title }}</h2>
+  {{ page.author }}
+  <div class="date">
+      Published on {{ page.date | date: "%e %B %Y" }} in the {{page.journal}}
+  </div>
+  Download paper:
+  {% if page.cam  %}
+    <a href="{{page.doi}}">Journal Version</a> &mdash;
+    <a href="{{page.cam}}">Open-access Version</a>
+  {% else %}
+    <a href="{{page.doi}}">Journal Version (Open Access)</a></br>
+  {% endif %}
+
 
   <div class="entry">
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  {% include disqus.html %}
+    <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Download Paper</a> -->
+    <!-- &mdash; -->
+    <a href="/" class="read-more">Back to Index</a>
 </article>

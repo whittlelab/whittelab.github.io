@@ -1,0 +1,2448 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+*	_site/style.css	/^*, *:before, *:after {$/;"	s
+*:after	_site/style.css	/^*, *:before, *:after {$/;"	s
+*:before	_site/style.css	/^*, *:before, *:after {$/;"	s
+.bp	_sass/_highlights.scss	/^.highlight .bp { color: #268BD2 } \/* Name.Builtin.Pseudo *\/$/;"	c
+.c	_sass/_highlights.scss	/^.highlight .c { color: #586E75 } \/* Comment *\/$/;"	c
+.c1	_sass/_highlights.scss	/^.highlight .c1 { color: #586E75 } \/* Comment.Single *\/$/;"	c
+.clearfix:after	_site/style.css	/^.clearfix:after {$/;"	c
+.clearfix:after	style.scss	/^.clearfix:after {$/;"	c
+.clearfix:before	_site/style.css	/^.clearfix:before,$/;"	c
+.clearfix:before	style.scss	/^.clearfix:before,$/;"	c
+.cm	_sass/_highlights.scss	/^.highlight .cm { color: #586E75 } \/* Comment.Multiline *\/$/;"	c
+.comments	style.scss	/^  .comments {$/;"	c
+.container	_site/style.css	/^.container {$/;"	c
+.container	style.scss	/^.container {$/;"	c
+.cp	_sass/_highlights.scss	/^.highlight .cp { color: #859900 } \/* Comment.Preproc *\/$/;"	c
+.cs	_sass/_highlights.scss	/^.highlight .cs { color: #859900 } \/* Comment.Special *\/$/;"	c
+.date	_site/style.css	/^.date {$/;"	c
+.date	style.scss	/^.date {$/;"	c
+.dribbble	_sass/_svg-icons.scss	/^  &.dribbble      { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.email	_sass/_svg-icons.scss	/^  &.email         { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.entry	style.scss	/^.entry img$/;"	c
+.entry	style.scss	/^.entry p {$/;"	c
+.entry p	_site/style.css	/^.entry p {$/;"	s
+.entry-front	style.scss	/^.entry-front a {$/;"	c
+.err	_sass/_highlights.scss	/^.highlight .err { color: #93A1A1 } \/* Error *\/$/;"	c
+.facebook	_sass/_svg-icons.scss	/^  &.facebook      { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.flickr	_sass/_svg-icons.scss	/^  &.flickr        { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.g	_sass/_highlights.scss	/^.highlight .g { color: #93A1A1 } \/* Generic *\/$/;"	c
+.gd	_sass/_highlights.scss	/^.highlight .gd { color: #2AA198 } \/* Generic.Deleted *\/$/;"	c
+.ge	_sass/_highlights.scss	/^.highlight .ge { color: #93A1A1; font-style: italic } \/* Generic.Emph *\/$/;"	c
+.gh	_sass/_highlights.scss	/^.highlight .gh { color: #CB4B16 } \/* Generic.Heading *\/$/;"	c
+.gi	_sass/_highlights.scss	/^.highlight .gi { color: #859900 } \/* Generic.Inserted *\/$/;"	c
+.github	_sass/_svg-icons.scss	/^  &.github        { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.gmnoprint	style.scss	/^.gmnoprint img {$/;"	c
+.gmnoprint img	_site/style.css	/^.gmnoprint img {$/;"	s
+.go	_sass/_highlights.scss	/^.highlight .go { color: #93A1A1 } \/* Generic.Output *\/$/;"	c
+.googleplus	_sass/_svg-icons.scss	/^  &.googleplus	  { background-image: url(data:image\/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBl/;"	c
+.gp	_sass/_highlights.scss	/^.highlight .gp { color: #93A1A1 } \/* Generic.Prompt *\/$/;"	c
+.gr	_sass/_highlights.scss	/^.highlight .gr { color: #DC322F } \/* Generic.Error *\/$/;"	c
+.gs	_sass/_highlights.scss	/^.highlight .gs { color: #93A1A1; font-weight: bold } \/* Generic.Strong *\/$/;"	c
+.gt	_sass/_highlights.scss	/^.highlight .gt { color: #93A1A1 } \/* Generic.Traceback *\/$/;"	c
+.gu	_sass/_highlights.scss	/^.highlight .gu { color: #CB4B16 } \/* Generic.Subheading *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .bp { color: #268BD2 } \/* Name.Builtin.Pseudo *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .c { color: #586E75 } \/* Comment *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .c1 { color: #586E75 } \/* Comment.Single *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .cm { color: #586E75 } \/* Comment.Multiline *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .cp { color: #859900 } \/* Comment.Preproc *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .cs { color: #859900 } \/* Comment.Special *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .err { color: #93A1A1 } \/* Error *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .g { color: #93A1A1 } \/* Generic *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gd { color: #2AA198 } \/* Generic.Deleted *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ge { color: #93A1A1; font-style: italic } \/* Generic.Emph *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gh { color: #CB4B16 } \/* Generic.Heading *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gi { color: #859900 } \/* Generic.Inserted *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .go { color: #93A1A1 } \/* Generic.Output *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gp { color: #93A1A1 } \/* Generic.Prompt *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gr { color: #DC322F } \/* Generic.Error *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gs { color: #93A1A1; font-weight: bold } \/* Generic.Strong *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gt { color: #93A1A1 } \/* Generic.Traceback *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .gu { color: #CB4B16 } \/* Generic.Subheading *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .il { color: #2AA198 } \/* Literal.Number.Integer.Long *\//;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .k { color: #859900 } \/* Keyword *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kc { color: #CB4B16 } \/* Keyword.Constant *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kd { color: #268BD2 } \/* Keyword.Declaration *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kn { color: #859900 } \/* Keyword.Namespace *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kp { color: #859900 } \/* Keyword.Pseudo *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kr { color: #268BD2 } \/* Keyword.Reserved *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .kt { color: #DC322F } \/* Keyword.Type *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .l { color: #93A1A1 } \/* Literal *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ld { color: #93A1A1 } \/* Literal.Date *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .m { color: #2AA198 } \/* Literal.Number *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .mf { color: #2AA198 } \/* Literal.Number.Float *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .mh { color: #2AA198 } \/* Literal.Number.Hex *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .mi { color: #2AA198 } \/* Literal.Number.Integer *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .mo { color: #2AA198 } \/* Literal.Number.Oct *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .n { color: #93A1A1 } \/* Name *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .na { color: #93A1A1 } \/* Name.Attribute *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nb { color: #B58900 } \/* Name.Builtin *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nc { color: #268BD2 } \/* Name.Class *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nd { color: #268BD2 } \/* Name.Decorator *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ne { color: #CB4B16 } \/* Name.Exception *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nf { color: #268BD2 } \/* Name.Function *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ni { color: #CB4B16 } \/* Name.Entity *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nl { color: #93A1A1 } \/* Name.Label *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nn { color: #93A1A1 } \/* Name.Namespace *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .no { color: #CB4B16 } \/* Name.Constant *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nt { color: #268BD2 } \/* Name.Tag *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nv { color: #268BD2 } \/* Name.Variable *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .nx { color: #555 } \/* Name.Other *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .o { color: #859900 } \/* Operator *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ow { color: #859900 } \/* Operator.Word *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .p { color: #93A1A1 } \/* Punctuation *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .py { color: #93A1A1 } \/* Name.Property *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .s { color: #2AA198 } \/* Literal.String *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .s1 { color: #2AA198 } \/* Literal.String.Single *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .s2 { color: #2AA198 } \/* Literal.String.Double *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sb { color: #586E75 } \/* Literal.String.Backtick *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sc { color: #2AA198 } \/* Literal.String.Char *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sd { color: #93A1A1 } \/* Literal.String.Doc *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .se { color: #CB4B16 } \/* Literal.String.Escape *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sh { color: #93A1A1 } \/* Literal.String.Heredoc *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .si { color: #2AA198 } \/* Literal.String.Interpol *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sr { color: #DC322F } \/* Literal.String.Regex *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .ss { color: #2AA198 } \/* Literal.String.Symbol *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .sx { color: #2AA198 } \/* Literal.String.Other *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .vc { color: #268BD2 } \/* Name.Variable.Class *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .vg { color: #268BD2 } \/* Name.Variable.Global *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .vi { color: #268BD2 } \/* Name.Variable.Instance *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .w { color: #93A1A1 } \/* Text.Whitespace *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight .x { color: #CB4B16 } \/* Other *\/$/;"	c
+.highlight	_sass/_highlights.scss	/^.highlight {$/;"	c
+.highlight	_site/style.css	/^.highlight {$/;"	c
+.highlight .bp	_site/style.css	/^.highlight .bp {$/;"	c
+.highlight .c	_site/style.css	/^.highlight .c {$/;"	c
+.highlight .c1	_site/style.css	/^.highlight .c1 {$/;"	c
+.highlight .cm	_site/style.css	/^.highlight .cm {$/;"	c
+.highlight .cp	_site/style.css	/^.highlight .cp {$/;"	c
+.highlight .cs	_site/style.css	/^.highlight .cs {$/;"	c
+.highlight .err	_site/style.css	/^.highlight .err {$/;"	c
+.highlight .g	_site/style.css	/^.highlight .g {$/;"	c
+.highlight .gd	_site/style.css	/^.highlight .gd {$/;"	c
+.highlight .ge	_site/style.css	/^.highlight .ge {$/;"	c
+.highlight .gh	_site/style.css	/^.highlight .gh {$/;"	c
+.highlight .gi	_site/style.css	/^.highlight .gi {$/;"	c
+.highlight .go	_site/style.css	/^.highlight .go {$/;"	c
+.highlight .gp	_site/style.css	/^.highlight .gp {$/;"	c
+.highlight .gr	_site/style.css	/^.highlight .gr {$/;"	c
+.highlight .gs	_site/style.css	/^.highlight .gs {$/;"	c
+.highlight .gt	_site/style.css	/^.highlight .gt {$/;"	c
+.highlight .gu	_site/style.css	/^.highlight .gu {$/;"	c
+.highlight .il	_site/style.css	/^.highlight .il {$/;"	c
+.highlight .k	_site/style.css	/^.highlight .k {$/;"	c
+.highlight .kc	_site/style.css	/^.highlight .kc {$/;"	c
+.highlight .kd	_site/style.css	/^.highlight .kd {$/;"	c
+.highlight .kn	_site/style.css	/^.highlight .kn {$/;"	c
+.highlight .kp	_site/style.css	/^.highlight .kp {$/;"	c
+.highlight .kr	_site/style.css	/^.highlight .kr {$/;"	c
+.highlight .kt	_site/style.css	/^.highlight .kt {$/;"	c
+.highlight .l	_site/style.css	/^.highlight .l {$/;"	c
+.highlight .ld	_site/style.css	/^.highlight .ld {$/;"	c
+.highlight .m	_site/style.css	/^.highlight .m {$/;"	c
+.highlight .mf	_site/style.css	/^.highlight .mf {$/;"	c
+.highlight .mh	_site/style.css	/^.highlight .mh {$/;"	c
+.highlight .mi	_site/style.css	/^.highlight .mi {$/;"	c
+.highlight .mo	_site/style.css	/^.highlight .mo {$/;"	c
+.highlight .n	_site/style.css	/^.highlight .n {$/;"	c
+.highlight .na	_site/style.css	/^.highlight .na {$/;"	c
+.highlight .nb	_site/style.css	/^.highlight .nb {$/;"	c
+.highlight .nc	_site/style.css	/^.highlight .nc {$/;"	c
+.highlight .nd	_site/style.css	/^.highlight .nd {$/;"	c
+.highlight .ne	_site/style.css	/^.highlight .ne {$/;"	c
+.highlight .nf	_site/style.css	/^.highlight .nf {$/;"	c
+.highlight .ni	_site/style.css	/^.highlight .ni {$/;"	c
+.highlight .nl	_site/style.css	/^.highlight .nl {$/;"	c
+.highlight .nn	_site/style.css	/^.highlight .nn {$/;"	c
+.highlight .no	_site/style.css	/^.highlight .no {$/;"	c
+.highlight .nt	_site/style.css	/^.highlight .nt {$/;"	c
+.highlight .nv	_site/style.css	/^.highlight .nv {$/;"	c
+.highlight .nx	_site/style.css	/^.highlight .nx {$/;"	c
+.highlight .o	_site/style.css	/^.highlight .o {$/;"	c
+.highlight .ow	_site/style.css	/^.highlight .ow {$/;"	c
+.highlight .p	_site/style.css	/^.highlight .p {$/;"	c
+.highlight .py	_site/style.css	/^.highlight .py {$/;"	c
+.highlight .s	_site/style.css	/^.highlight .s {$/;"	c
+.highlight .s1	_site/style.css	/^.highlight .s1 {$/;"	c
+.highlight .s2	_site/style.css	/^.highlight .s2 {$/;"	c
+.highlight .sb	_site/style.css	/^.highlight .sb {$/;"	c
+.highlight .sc	_site/style.css	/^.highlight .sc {$/;"	c
+.highlight .sd	_site/style.css	/^.highlight .sd {$/;"	c
+.highlight .se	_site/style.css	/^.highlight .se {$/;"	c
+.highlight .sh	_site/style.css	/^.highlight .sh {$/;"	c
+.highlight .si	_site/style.css	/^.highlight .si {$/;"	c
+.highlight .sr	_site/style.css	/^.highlight .sr {$/;"	c
+.highlight .ss	_site/style.css	/^.highlight .ss {$/;"	c
+.highlight .sx	_site/style.css	/^.highlight .sx {$/;"	c
+.highlight .vc	_site/style.css	/^.highlight .vc {$/;"	c
+.highlight .vg	_site/style.css	/^.highlight .vg {$/;"	c
+.highlight .vi	_site/style.css	/^.highlight .vi {$/;"	c
+.highlight .w	_site/style.css	/^.highlight .w {$/;"	c
+.highlight .x	_site/style.css	/^.highlight .x {$/;"	c
+.il	_sass/_highlights.scss	/^.highlight .il { color: #2AA198 } \/* Literal.Number.Integer.Long *\//;"	c
+.instagram	_sass/_svg-icons.scss	/^  &.instagram     { background-image: url(data:image\/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiB/;"	c
+.k	_sass/_highlights.scss	/^.highlight .k { color: #859900 } \/* Keyword *\/$/;"	c
+.kc	_sass/_highlights.scss	/^.highlight .kc { color: #CB4B16 } \/* Keyword.Constant *\/$/;"	c
+.kd	_sass/_highlights.scss	/^.highlight .kd { color: #268BD2 } \/* Keyword.Declaration *\/$/;"	c
+.kn	_sass/_highlights.scss	/^.highlight .kn { color: #859900 } \/* Keyword.Namespace *\/$/;"	c
+.kp	_sass/_highlights.scss	/^.highlight .kp { color: #859900 } \/* Keyword.Pseudo *\/$/;"	c
+.kr	_sass/_highlights.scss	/^.highlight .kr { color: #268BD2 } \/* Keyword.Reserved *\/$/;"	c
+.kt	_sass/_highlights.scss	/^.highlight .kt { color: #DC322F } \/* Keyword.Type *\/$/;"	c
+.l	_sass/_highlights.scss	/^.highlight .l { color: #93A1A1 } \/* Literal *\/$/;"	c
+.ld	_sass/_highlights.scss	/^.highlight .ld { color: #93A1A1 } \/* Literal.Date *\/$/;"	c
+.linkedin	_sass/_svg-icons.scss	/^  &.linkedin      { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.m	_sass/_highlights.scss	/^.highlight .m { color: #2AA198 } \/* Literal.Number *\/$/;"	c
+.masthead	_site/style.css	/^  .masthead {$/;"	c
+.masthead	_site/style.css	/^.masthead {$/;"	c
+.masthead	style.scss	/^.masthead {$/;"	c
+.mf	_sass/_highlights.scss	/^.highlight .mf { color: #2AA198 } \/* Literal.Number.Float *\/$/;"	c
+.mh	_sass/_highlights.scss	/^.highlight .mh { color: #2AA198 } \/* Literal.Number.Hex *\/$/;"	c
+.mi	_sass/_highlights.scss	/^.highlight .mi { color: #2AA198 } \/* Literal.Number.Integer *\/$/;"	c
+.mo	_sass/_highlights.scss	/^.highlight .mo { color: #2AA198 } \/* Literal.Number.Oct *\/$/;"	c
+.n	_sass/_highlights.scss	/^.highlight .n { color: #93A1A1 } \/* Name *\/$/;"	c
+.na	_sass/_highlights.scss	/^.highlight .na { color: #93A1A1 } \/* Name.Attribute *\/$/;"	c
+.nb	_sass/_highlights.scss	/^.highlight .nb { color: #B58900 } \/* Name.Builtin *\/$/;"	c
+.nc	_sass/_highlights.scss	/^.highlight .nc { color: #268BD2 } \/* Name.Class *\/$/;"	c
+.nd	_sass/_highlights.scss	/^.highlight .nd { color: #268BD2 } \/* Name.Decorator *\/$/;"	c
+.ne	_sass/_highlights.scss	/^.highlight .ne { color: #CB4B16 } \/* Name.Exception *\/$/;"	c
+.nf	_sass/_highlights.scss	/^.highlight .nf { color: #268BD2 } \/* Name.Function *\/$/;"	c
+.ni	_sass/_highlights.scss	/^.highlight .ni { color: #CB4B16 } \/* Name.Entity *\/$/;"	c
+.nl	_sass/_highlights.scss	/^.highlight .nl { color: #93A1A1 } \/* Name.Label *\/$/;"	c
+.nn	_sass/_highlights.scss	/^.highlight .nn { color: #93A1A1 } \/* Name.Namespace *\/$/;"	c
+.no	_sass/_highlights.scss	/^.highlight .no { color: #CB4B16 } \/* Name.Constant *\/$/;"	c
+.nt	_sass/_highlights.scss	/^.highlight .nt { color: #268BD2 } \/* Name.Tag *\/$/;"	c
+.nv	_sass/_highlights.scss	/^.highlight .nv { color: #268BD2 } \/* Name.Variable *\/$/;"	c
+.nx	_sass/_highlights.scss	/^.highlight .nx { color: #555 } \/* Name.Other *\/$/;"	c
+.o	_sass/_highlights.scss	/^.highlight .o { color: #859900 } \/* Operator *\/$/;"	c
+.ow	_sass/_highlights.scss	/^.highlight .ow { color: #859900 } \/* Operator.Word *\/$/;"	c
+.p	_sass/_highlights.scss	/^.highlight .p { color: #93A1A1 } \/* Punctuation *\/$/;"	c
+.paperinfo	style.scss	/^.paperinfo {$/;"	c
+.pinterest	_sass/_svg-icons.scss	/^  &.pinterest     { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.post	style.scss	/^.post {$/;"	c
+.post	style.scss	/^.posts > .post {$/;"	c
+.post .comments	_site/style.css	/^.post .comments {$/;"	c
+.post .read-more	_site/style.css	/^.post .read-more {$/;"	c
+.post blockquote	_site/style.css	/^.post blockquote {$/;"	s
+.post:last-child	style.scss	/^.posts > .post:last-child {$/;"	c
+.posts	style.scss	/^.posts > .post {$/;"	c
+.posts	style.scss	/^.posts > .post:last-child {$/;"	c
+.posts > .post	_site/style.css	/^.posts > .post {$/;"	c
+.posts > .post:last-child	_site/style.css	/^.posts > .post:last-child {$/;"	c
+.py	_sass/_highlights.scss	/^.highlight .py { color: #93A1A1 } \/* Name.Property *\/$/;"	c
+.read-more	style.scss	/^  .read-more {$/;"	c
+.rss	_sass/_svg-icons.scss	/^  &.rss           { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.s	_sass/_highlights.scss	/^.highlight .s { color: #2AA198 } \/* Literal.String *\/$/;"	c
+.s1	_sass/_highlights.scss	/^.highlight .s1 { color: #2AA198 } \/* Literal.String.Single *\/$/;"	c
+.s2	_sass/_highlights.scss	/^.highlight .s2 { color: #2AA198 } \/* Literal.String.Double *\/$/;"	c
+.sb	_sass/_highlights.scss	/^.highlight .sb { color: #586E75 } \/* Literal.String.Backtick *\/$/;"	c
+.sc	_sass/_highlights.scss	/^.highlight .sc { color: #2AA198 } \/* Literal.String.Char *\/$/;"	c
+.sd	_sass/_highlights.scss	/^.highlight .sd { color: #93A1A1 } \/* Literal.String.Doc *\/$/;"	c
+.se	_sass/_highlights.scss	/^.highlight .se { color: #CB4B16 } \/* Literal.String.Escape *\/$/;"	c
+.sh	_sass/_highlights.scss	/^.highlight .sh { color: #93A1A1 } \/* Literal.String.Heredoc *\/$/;"	c
+.si	_sass/_highlights.scss	/^.highlight .si { color: #2AA198 } \/* Literal.String.Interpol *\/$/;"	c
+.site-avatar	_site/style.css	/^  .site-avatar {$/;"	c
+.site-avatar	_site/style.css	/^.site-avatar {$/;"	c
+.site-avatar	style.scss	/^.site-avatar {$/;"	c
+.site-avatar img	_site/style.css	/^.site-avatar img {$/;"	s
+.site-description	_site/style.css	/^  .site-description {$/;"	c
+.site-description	_site/style.css	/^.site-description {$/;"	c
+.site-description	style.scss	/^.site-description {$/;"	c
+.site-info	_site/style.css	/^  .site-info {$/;"	c
+.site-info	_site/style.css	/^.site-info {$/;"	c
+.site-info	style.scss	/^.site-info {$/;"	c
+.site-name	_site/style.css	/^.site-name {$/;"	c
+.site-name	style.scss	/^.site-name {$/;"	c
+.sr	_sass/_highlights.scss	/^.highlight .sr { color: #DC322F } \/* Literal.String.Regex *\/$/;"	c
+.ss	_sass/_highlights.scss	/^.highlight .ss { color: #2AA198 } \/* Literal.String.Symbol *\/$/;"	c
+.stackoverflow	_sass/_svg-icons.scss	/^  &.stackoverflow { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWd/;"	c
+.svg-icon	_sass/_svg-icons.scss	/^.svg-icon {$/;"	c
+.svg-icon	_site/style.css	/^.svg-icon {$/;"	c
+.svg-icon.dribbble	_site/style.css	/^.svg-icon.dribbble {$/;"	c
+.svg-icon.email	_site/style.css	/^.svg-icon.email {$/;"	c
+.svg-icon.facebook	_site/style.css	/^.svg-icon.facebook {$/;"	c
+.svg-icon.flickr	_site/style.css	/^.svg-icon.flickr {$/;"	c
+.svg-icon.github	_site/style.css	/^.svg-icon.github {$/;"	c
+.svg-icon.googleplus	_site/style.css	/^.svg-icon.googleplus {$/;"	c
+.svg-icon.instagram	_site/style.css	/^.svg-icon.instagram {$/;"	c
+.svg-icon.linkedin	_site/style.css	/^.svg-icon.linkedin {$/;"	c
+.svg-icon.pinterest	_site/style.css	/^.svg-icon.pinterest {$/;"	c
+.svg-icon.rss	_site/style.css	/^.svg-icon.rss {$/;"	c
+.svg-icon.stackoverflow	_site/style.css	/^.svg-icon.stackoverflow {$/;"	c
+.svg-icon.twitter	_site/style.css	/^.svg-icon.twitter {$/;"	c
+.svg-icon.youtube	_site/style.css	/^.svg-icon.youtube {$/;"	c
+.sx	_sass/_highlights.scss	/^.highlight .sx { color: #2AA198 } \/* Literal.String.Other *\/$/;"	c
+.twitter	_sass/_svg-icons.scss	/^  &.twitter       { background-image: url(data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iNDBweCIgaGV/;"	c
+.vc	_sass/_highlights.scss	/^.highlight .vc { color: #268BD2 } \/* Name.Variable.Class *\/$/;"	c
+.vg	_sass/_highlights.scss	/^.highlight .vg { color: #268BD2 } \/* Name.Variable.Global *\/$/;"	c
+.vi	_sass/_highlights.scss	/^.highlight .vi { color: #268BD2 } \/* Name.Variable.Instance *\/$/;"	c
+.w	_sass/_highlights.scss	/^.highlight .w { color: #93A1A1 } \/* Text.Whitespace *\/$/;"	c
+.wrapper-footer	_site/style.css	/^.wrapper-footer {$/;"	c
+.wrapper-footer	style.scss	/^.wrapper-footer {$/;"	c
+.wrapper-masthead	_site/style.css	/^.wrapper-masthead {$/;"	c
+.wrapper-masthead	style.scss	/^.wrapper-masthead {$/;"	c
+.x	_sass/_highlights.scss	/^.highlight .x { color: #CB4B16 } \/* Other *\/$/;"	c
+.youtube	_sass/_svg-icons.scss	/^  &.youtube 	    { background-image: url(data:image\/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBl/;"	c
+404 - Page not found	_site/404.html	/^  <h1>404 - Page not found<\/h1>$/;"	h
+::-moz-selection	_site/style.css	/^::-moz-selection {$/;"	s
+::selection	_site/style.css	/^::selection {$/;"	s
+About	_site/about/index.html	/^  <h1>About<\/h1>$/;"	h
+Arrow2Send	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+Arrow2Send	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+Arrow2Send	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+Arrow2Send	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+Contact me	_site/about/index.html	/^<h3 id="contact-me">Contact me<\/h3>$/;"	j
+Contact me	about.md	/^### Contact me$/;"	S	section:permalink: /about/
+Effect of Blade Row Interaction on Rotor Film Cooling	_site/brind-2020/index.html	/^  <h2>Effect of Blade Row Interaction on Rotor Film Cooling<\/h2>$/;"	i
+Effect of Blade Row Interaction on Rotor Film Cooling	_site/index.html	/^      <h2><a href="\/brind-2020\/">Effect of Blade Row Interaction on Rotor Film Cooling<\/a><\//;"	i
+EmptyTriangleOutM	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+EmptyTriangleOutM	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+EmptyTriangleOutM	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+EmptyTriangleOutM	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+Modelling Turbine Acoustic Impedance	_site/brind-2021/index.html	/^  <h2>Modelling Turbine Acoustic Impedance<\/h2>$/;"	i
+Modelling Turbine Acoustic Impedance	_site/index.html	/^      <h2><a href="\/brind-2021\/">Modelling Turbine Acoustic Impedance<\/a><\/h2>$/;"	i
+More Information	_site/about/index.html	/^<h3 id="more-information">More Information<\/h3>$/;"	j
+More Information	about.md	/^### More Information$/;"	S	section:permalink: /about/
+TriangleInM	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleInM	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleInM	images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleInM	images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleInM-3	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleInM-3	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleInM-3	images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleInM-3	images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleInM-7	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleInM-7	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleInM-7	images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleInM-7	images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleInS	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+TriangleInS	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+TriangleInS	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+TriangleInS	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+TriangleOutM	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleOutM	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleOutM	images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleOutM	images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleOutM-2	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleOutM-2	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleOutM-2	images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleOutM-2	images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleOutM-3	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleOutM-3	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleOutM-3	images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleOutM-3	images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleOutS	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+TriangleOutS	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+TriangleOutS	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+TriangleOutS	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+TriangleOutS-3	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+TriangleOutS-3	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+TriangleOutS-3	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+TriangleOutS-3	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+TriangleOutSq	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleOutSq	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleOutSq	images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleOutSq	images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleOutSq-1	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleOutSq-1	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+TriangleOutSq-1	images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+TriangleOutSq-1	images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+a	_site/style.css	/^a {$/;"	s
+a	_site/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+a:active	_site/style.css	/^a:hover, a:active {$/;"	s
+a:hover	_site/style.css	/^a:hover, a:active {$/;"	s
+abbr	_site/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+acronym	_site/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+address	_site/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+alpha	_site/images/brind-2021.svg	/^       height="100%">$/;"	d
+alpha	_site/images/brind-2021.svg	/^       height="100%">$/;"	i
+alpha	images/brind-2021.svg	/^       height="100%">$/;"	d
+alpha	images/brind-2021.svg	/^       height="100%">$/;"	i
+applet	_site/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+article	_site/style.css	/^article, aside, canvas, details, embed,$/;"	s
+article	_site/style.css	/^article, aside, details, figcaption, figure,$/;"	s
+aside	_site/style.css	/^article, aside, canvas, details, embed,$/;"	s
+aside	_site/style.css	/^article, aside, details, figcaption, figure,$/;"	s
+audio	_site/style.css	/^time, mark, audio, video {$/;"	s
+b	_site/style.css	/^b, u, i, center,$/;"	s
+b	_site/style.css	/^strong, b {$/;"	s
+base	_site/images/brind-2020.svg	/^     fit-margin-bottom="5" \/>$/;"	i
+base	images/brind-2020.svg	/^     fit-margin-bottom="5" \/>$/;"	i
+big	_site/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+black	_sass/_variables.scss	/^$black: #000;$/;"	v
+blockquote	_site/style.css	/^blockquote, q {$/;"	s
+blockquote	_site/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+blockquote:after	_site/style.css	/^blockquote:before, blockquote:after,$/;"	s
+blockquote:before	_site/style.css	/^blockquote:before, blockquote:after,$/;"	s
+blue	_sass/_variables.scss	/^$blue: #4183C4;$/;"	v
+body	_site/style.css	/^body {$/;"	s
+body	_site/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+cam: https://www.repository.cam.ac.uk/handle/1810/304215	_posts/2020-08-25-brind.md	/^cam: https:\/\/www.repository.cam.ac.uk\/handle\/1810\/304215$/;"	s
+canvas	_site/style.css	/^article, aside, canvas, details, embed,$/;"	s
+caption	_site/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+cc	_site/images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://creativecommons.org/ns#
+cc	_site/images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://creativecommons.org/ns#
+cc	_site/images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://creativecommons.org/ns#
+cc	images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://creativecommons.org/ns#
+cc	images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://creativecommons.org/ns#
+cc	images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://creativecommons.org/ns#
+center	_site/style.css	/^b, u, i, center,$/;"	s
+cite	_site/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+clip1	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="clip1">$/;"	d
+clip1	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="clip1">$/;"	i
+clip1	_site/images/brind-2021.svg	/^       id="clip1">$/;"	d
+clip1	_site/images/brind-2021.svg	/^       id="clip1">$/;"	i
+clip1	images/Whittle_Lab_Logo_Black.svg	/^       id="clip1">$/;"	d
+clip1	images/Whittle_Lab_Logo_Black.svg	/^       id="clip1">$/;"	i
+clip1	images/brind-2021.svg	/^       id="clip1">$/;"	d
+clip1	images/brind-2021.svg	/^       id="clip1">$/;"	i
+clip10	_site/images/brind-2021.svg	/^       id="clip10">$/;"	d
+clip10	_site/images/brind-2021.svg	/^       id="clip10">$/;"	i
+clip10	images/brind-2021.svg	/^       id="clip10">$/;"	d
+clip10	images/brind-2021.svg	/^       id="clip10">$/;"	i
+clip11	_site/images/brind-2021.svg	/^       id="clip11">$/;"	d
+clip11	_site/images/brind-2021.svg	/^       id="clip11">$/;"	i
+clip11	images/brind-2021.svg	/^       id="clip11">$/;"	d
+clip11	images/brind-2021.svg	/^       id="clip11">$/;"	i
+clip12	_site/images/brind-2021.svg	/^       id="clip12">$/;"	d
+clip12	_site/images/brind-2021.svg	/^       id="clip12">$/;"	i
+clip12	images/brind-2021.svg	/^       id="clip12">$/;"	d
+clip12	images/brind-2021.svg	/^       id="clip12">$/;"	i
+clip13	_site/images/brind-2021.svg	/^       id="clip13">$/;"	d
+clip13	_site/images/brind-2021.svg	/^       id="clip13">$/;"	i
+clip13	images/brind-2021.svg	/^       id="clip13">$/;"	d
+clip13	images/brind-2021.svg	/^       id="clip13">$/;"	i
+clip14	_site/images/brind-2021.svg	/^       id="clip14">$/;"	d
+clip14	_site/images/brind-2021.svg	/^       id="clip14">$/;"	i
+clip14	images/brind-2021.svg	/^       id="clip14">$/;"	d
+clip14	images/brind-2021.svg	/^       id="clip14">$/;"	i
+clip2	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="clip2">$/;"	d
+clip2	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="clip2">$/;"	i
+clip2	_site/images/brind-2021.svg	/^       id="clip2">$/;"	d
+clip2	_site/images/brind-2021.svg	/^       id="clip2">$/;"	i
+clip2	images/Whittle_Lab_Logo_Black.svg	/^       id="clip2">$/;"	d
+clip2	images/Whittle_Lab_Logo_Black.svg	/^       id="clip2">$/;"	i
+clip2	images/brind-2021.svg	/^       id="clip2">$/;"	d
+clip2	images/brind-2021.svg	/^       id="clip2">$/;"	i
+clip3	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="clip3">$/;"	d
+clip3	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="clip3">$/;"	i
+clip3	_site/images/brind-2021.svg	/^       id="clip3">$/;"	d
+clip3	_site/images/brind-2021.svg	/^       id="clip3">$/;"	i
+clip3	images/Whittle_Lab_Logo_Black.svg	/^       id="clip3">$/;"	d
+clip3	images/Whittle_Lab_Logo_Black.svg	/^       id="clip3">$/;"	i
+clip3	images/brind-2021.svg	/^       id="clip3">$/;"	d
+clip3	images/brind-2021.svg	/^       id="clip3">$/;"	i
+clip4	_site/images/brind-2021.svg	/^       id="clip4">$/;"	d
+clip4	_site/images/brind-2021.svg	/^       id="clip4">$/;"	i
+clip4	images/brind-2021.svg	/^       id="clip4">$/;"	d
+clip4	images/brind-2021.svg	/^       id="clip4">$/;"	i
+clip5	_site/images/brind-2021.svg	/^       id="clip5">$/;"	d
+clip5	_site/images/brind-2021.svg	/^       id="clip5">$/;"	i
+clip5	images/brind-2021.svg	/^       id="clip5">$/;"	d
+clip5	images/brind-2021.svg	/^       id="clip5">$/;"	i
+clip6	_site/images/brind-2021.svg	/^       id="clip6">$/;"	d
+clip6	_site/images/brind-2021.svg	/^       id="clip6">$/;"	i
+clip6	images/brind-2021.svg	/^       id="clip6">$/;"	d
+clip6	images/brind-2021.svg	/^       id="clip6">$/;"	i
+clip7	_site/images/brind-2021.svg	/^       id="clip7">$/;"	d
+clip7	_site/images/brind-2021.svg	/^       id="clip7">$/;"	i
+clip7	images/brind-2021.svg	/^       id="clip7">$/;"	d
+clip7	images/brind-2021.svg	/^       id="clip7">$/;"	i
+clip8	_site/images/brind-2021.svg	/^       id="clip8">$/;"	d
+clip8	_site/images/brind-2021.svg	/^       id="clip8">$/;"	i
+clip8	images/brind-2021.svg	/^       id="clip8">$/;"	d
+clip8	images/brind-2021.svg	/^       id="clip8">$/;"	i
+clip9	_site/images/brind-2021.svg	/^       id="clip9">$/;"	d
+clip9	_site/images/brind-2021.svg	/^       id="clip9">$/;"	i
+clip9	images/brind-2021.svg	/^       id="clip9">$/;"	d
+clip9	images/brind-2021.svg	/^       id="clip9">$/;"	i
+code	_site/style.css	/^a, abbr, acronym, address, big, cite, code,$/;"	s
+code	_site/style.css	/^code {$/;"	s
+contact-me	_site/about/index.html	/^<h3 id="contact-me">Contact me<\/h3>$/;"	I
+darkGray	_sass/_variables.scss	/^$darkGray: #333;$/;"	v
+darkerGray	_sass/_variables.scss	/^$darkerGray: #222;$/;"	v
+dc	_site/images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	_site/images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	_site/images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dd	_site/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+defs11	_site/images/Whittle_Lab_Logo_Black.svg	/^     id="defs11">$/;"	i
+defs11	images/Whittle_Lab_Logo_Black.svg	/^     id="defs11">$/;"	i
+defs127	_site/images/brind-2021.svg	/^     id="defs127">$/;"	i
+defs127	images/brind-2021.svg	/^     id="defs127">$/;"	i
+defs17140	_site/images/brind-2020.svg	/^         id="defs17140">$/;"	i
+defs17140	images/brind-2020.svg	/^         id="defs17140">$/;"	i
+defs17166	_site/images/brind-2020.svg	/^         id="defs17166">$/;"	i
+defs17166	images/brind-2020.svg	/^         id="defs17166">$/;"	i
+defs5531	_site/images/brind-2020.svg	/^             id="defs5531">$/;"	i
+defs5531	images/brind-2020.svg	/^             id="defs5531">$/;"	i
+defs5531-2	_site/images/brind-2020.svg	/^           id="defs5531-2">$/;"	i
+defs5531-2	images/brind-2020.svg	/^           id="defs5531-2">$/;"	i
+defs5557	_site/images/brind-2020.svg	/^             id="defs5557">$/;"	i
+defs5557	images/brind-2020.svg	/^             id="defs5557">$/;"	i
+defs5557-9	_site/images/brind-2020.svg	/^           id="defs5557-9">$/;"	i
+defs5557-9	images/brind-2020.svg	/^           id="defs5557-9">$/;"	i
+defs5690	_site/images/brind-2020.svg	/^             id="defs5690">$/;"	i
+defs5690	images/brind-2020.svg	/^             id="defs5690">$/;"	i
+defs5690-5	_site/images/brind-2020.svg	/^           id="defs5690-5">$/;"	i
+defs5690-5	images/brind-2020.svg	/^           id="defs5690-5">$/;"	i
+defs5731	_site/images/brind-2020.svg	/^             id="defs5731">$/;"	i
+defs5731	images/brind-2020.svg	/^             id="defs5731">$/;"	i
+defs5731-5	_site/images/brind-2020.svg	/^           id="defs5731-5">$/;"	i
+defs5731-5	images/brind-2020.svg	/^           id="defs5731-5">$/;"	i
+defs5898-1	_site/images/brind-2020.svg	/^           id="defs5898-1">$/;"	i
+defs5898-1	images/brind-2020.svg	/^           id="defs5898-1">$/;"	i
+defs6754	_site/images/brind-2020.svg	/^     id="defs6754">$/;"	i
+defs6754	images/brind-2020.svg	/^     id="defs6754">$/;"	i
+del	_site/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+details	_site/style.css	/^article, aside, canvas, details, embed,$/;"	s
+details	_site/style.css	/^article, aside, details, figcaption, figure,$/;"	s
+dfn	_site/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+disqus_thread	_includes/disqus.html	/^	<div id="disqus_thread"><\/div>$/;"	I
+div	_site/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+dl	_site/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+doi: https://doi.org/10.3390/ijtpp6020018	_posts/2021-06-07-brind.md	/^doi: https:\/\/doi.org\/10.3390\/ijtpp6020018$/;"	s
+dt	_site/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+em	_site/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+em	_site/style.css	/^em, i {$/;"	s
+embed	_site/style.css	/^article, aside, canvas, details, embed,$/;"	s
+feColorMatrix5	_site/images/brind-2021.svg	/^         id="feColorMatrix5" \/>$/;"	i
+feColorMatrix5	images/brind-2021.svg	/^         id="feColorMatrix5" \/>$/;"	i
+fieldset	_site/style.css	/^fieldset, form, label, legend,$/;"	s
+figcaption	_site/style.css	/^article, aside, details, figcaption, figure,$/;"	s
+figcaption	_site/style.css	/^figure, figcaption, footer, header, hgroup,$/;"	s
+figure	_site/style.css	/^article, aside, details, figcaption, figure,$/;"	s
+figure	_site/style.css	/^figure, figcaption, footer, header, hgroup,$/;"	s
+footer	_site/style.css	/^figure, figcaption, footer, header, hgroup,$/;"	s
+footer	_site/style.css	/^footer {$/;"	s
+footer	_site/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+form	_site/style.css	/^fieldset, form, label, legend,$/;"	s
+g10	_site/images/brind-2021.svg	/^         id="g10">$/;"	i
+g10	images/brind-2021.svg	/^         id="g10">$/;"	i
+g104	_site/images/brind-2021.svg	/^         id="g104">$/;"	i
+g104	images/brind-2021.svg	/^         id="g104">$/;"	i
+g118	_site/images/brind-2021.svg	/^         id="g118">$/;"	i
+g118	images/brind-2021.svg	/^         id="g118">$/;"	i
+g147	_site/images/brind-2021.svg	/^       id="g147">$/;"	i
+g147	images/brind-2021.svg	/^       id="g147">$/;"	i
+g17138	_site/images/brind-2020.svg	/^           id="g17138">$/;"	d
+g17138	_site/images/brind-2020.svg	/^           id="g17138">$/;"	i
+g17138	images/brind-2020.svg	/^           id="g17138">$/;"	d
+g17138	images/brind-2020.svg	/^           id="g17138">$/;"	i
+g17148	_site/images/brind-2020.svg	/^           style="fill:#000000;fill-opacity:1">$/;"	i
+g17148	images/brind-2020.svg	/^           style="fill:#000000;fill-opacity:1">$/;"	i
+g17164	_site/images/brind-2020.svg	/^           id="g17164">$/;"	d
+g17164	_site/images/brind-2020.svg	/^           id="g17164">$/;"	i
+g17164	images/brind-2020.svg	/^           id="g17164">$/;"	d
+g17164	images/brind-2020.svg	/^           id="g17164">$/;"	i
+g17174	_site/images/brind-2020.svg	/^           style="fill:#000000;fill-opacity:1">$/;"	i
+g17174	images/brind-2020.svg	/^           style="fill:#000000;fill-opacity:1">$/;"	i
+g203	_site/images/brind-2021.svg	/^       id="g203">$/;"	i
+g203	images/brind-2021.svg	/^       id="g203">$/;"	i
+g21	_site/images/brind-2021.svg	/^         id="g21">$/;"	i
+g21	images/brind-2021.svg	/^         id="g21">$/;"	i
+g257	_site/images/brind-2021.svg	/^       id="g257">$/;"	i
+g257	images/brind-2021.svg	/^       id="g257">$/;"	i
+g267	_site/images/brind-2021.svg	/^       id="g267">$/;"	i
+g267	images/brind-2021.svg	/^       id="g267">$/;"	i
+g27	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="g27">$/;"	i
+g27	images/Whittle_Lab_Logo_Black.svg	/^       id="g27">$/;"	i
+g32	_site/images/brind-2021.svg	/^         id="g32">$/;"	i
+g32	images/brind-2021.svg	/^         id="g32">$/;"	i
+g43	_site/images/brind-2021.svg	/^         id="g43">$/;"	i
+g43	images/brind-2021.svg	/^         id="g43">$/;"	i
+g49	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="g49">$/;"	i
+g49	images/Whittle_Lab_Logo_Black.svg	/^       id="g49">$/;"	i
+g54	_site/images/brind-2021.svg	/^         id="g54">$/;"	i
+g54	images/brind-2021.svg	/^         id="g54">$/;"	i
+g55	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="g55">$/;"	i
+g55	images/Whittle_Lab_Logo_Black.svg	/^       id="g55">$/;"	i
+g5533	_site/images/brind-2020.svg	/^               id="g5533">$/;"	d
+g5533	_site/images/brind-2020.svg	/^               id="g5533">$/;"	i
+g5533	images/brind-2020.svg	/^               id="g5533">$/;"	d
+g5533	images/brind-2020.svg	/^               id="g5533">$/;"	i
+g5533-6	_site/images/brind-2020.svg	/^       id="g5533-6">$/;"	d
+g5533-6	_site/images/brind-2020.svg	/^       id="g5533-6">$/;"	i
+g5533-6	images/brind-2020.svg	/^       id="g5533-6">$/;"	d
+g5533-6	images/brind-2020.svg	/^       id="g5533-6">$/;"	i
+g5548	_site/images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5548	images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5548-5	_site/images/brind-2020.svg	/^             id="g5548-5">$/;"	i
+g5548-5	images/brind-2020.svg	/^             id="g5548-5">$/;"	i
+g5552	_site/images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5552	images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5552-2	_site/images/brind-2020.svg	/^             id="g5552-2">$/;"	i
+g5552-2	images/brind-2020.svg	/^             id="g5552-2">$/;"	i
+g5559	_site/images/brind-2020.svg	/^               id="g5559">$/;"	d
+g5559	_site/images/brind-2020.svg	/^               id="g5559">$/;"	i
+g5559	images/brind-2020.svg	/^               id="g5559">$/;"	d
+g5559	images/brind-2020.svg	/^               id="g5559">$/;"	i
+g5559-7	_site/images/brind-2020.svg	/^       id="g5559-7">$/;"	d
+g5559-7	_site/images/brind-2020.svg	/^       id="g5559-7">$/;"	i
+g5559-7	images/brind-2020.svg	/^       id="g5559-7">$/;"	d
+g5559-7	images/brind-2020.svg	/^       id="g5559-7">$/;"	i
+g5571	_site/images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5571	images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5571-9	_site/images/brind-2020.svg	/^             id="g5571-9">$/;"	i
+g5571-9	images/brind-2020.svg	/^             id="g5571-9">$/;"	i
+g5575	_site/images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5575	images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5575-7	_site/images/brind-2020.svg	/^             id="g5575-7">$/;"	i
+g5575-7	images/brind-2020.svg	/^             id="g5575-7">$/;"	i
+g5692	_site/images/brind-2020.svg	/^               id="g5692">$/;"	d
+g5692	_site/images/brind-2020.svg	/^               id="g5692">$/;"	i
+g5692	images/brind-2020.svg	/^               id="g5692">$/;"	d
+g5692	images/brind-2020.svg	/^               id="g5692">$/;"	i
+g5692-0	_site/images/brind-2020.svg	/^       id="g5692-0">$/;"	d
+g5692-0	_site/images/brind-2020.svg	/^       id="g5692-0">$/;"	i
+g5692-0	images/brind-2020.svg	/^       id="g5692-0">$/;"	d
+g5692-0	images/brind-2020.svg	/^       id="g5692-0">$/;"	i
+g5716	_site/images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5716	images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5716-5	_site/images/brind-2020.svg	/^             id="g5716-5">$/;"	i
+g5716-5	images/brind-2020.svg	/^             id="g5716-5">$/;"	i
+g5733	_site/images/brind-2020.svg	/^               id="g5733">$/;"	d
+g5733	_site/images/brind-2020.svg	/^               id="g5733">$/;"	i
+g5733	images/brind-2020.svg	/^               id="g5733">$/;"	d
+g5733	images/brind-2020.svg	/^               id="g5733">$/;"	i
+g5733-4	_site/images/brind-2020.svg	/^       id="g5733-4">$/;"	d
+g5733-4	_site/images/brind-2020.svg	/^       id="g5733-4">$/;"	i
+g5733-4	images/brind-2020.svg	/^       id="g5733-4">$/;"	d
+g5733-4	images/brind-2020.svg	/^       id="g5733-4">$/;"	i
+g5751	_site/images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5751	images/brind-2020.svg	/^               style="fill:#000000;fill-opacity:1">$/;"	i
+g5751-3	_site/images/brind-2020.svg	/^             id="g5751-3">$/;"	i
+g5751-3	images/brind-2020.svg	/^             id="g5751-3">$/;"	i
+g5900-4	_site/images/brind-2020.svg	/^             id="g5900-4">$/;"	d
+g5900-4	_site/images/brind-2020.svg	/^             id="g5900-4">$/;"	i
+g5900-4	images/brind-2020.svg	/^             id="g5900-4">$/;"	d
+g5900-4	images/brind-2020.svg	/^             id="g5900-4">$/;"	i
+g6415	_site/images/brind-2020.svg	/^       id="g6415">$/;"	i
+g6415	images/brind-2020.svg	/^       id="g6415">$/;"	i
+g65	_site/images/brind-2021.svg	/^         id="g65">$/;"	i
+g65	images/brind-2021.svg	/^         id="g65">$/;"	i
+g6695	_site/images/brind-2020.svg	/^             id="g6695">$/;"	d
+g6695	_site/images/brind-2020.svg	/^             id="g6695">$/;"	i
+g6695	images/brind-2020.svg	/^             id="g6695">$/;"	d
+g6695	images/brind-2020.svg	/^             id="g6695">$/;"	i
+g6716	_site/images/brind-2020.svg	/^             id="g6716">$/;"	d
+g6716	_site/images/brind-2020.svg	/^             id="g6716">$/;"	i
+g6716	images/brind-2020.svg	/^             id="g6716">$/;"	d
+g6716	images/brind-2020.svg	/^             id="g6716">$/;"	i
+g6723-4	_site/images/brind-2020.svg	/^       transform="translate(51.396106,-103.24942)">$/;"	i
+g6723-4	images/brind-2020.svg	/^       transform="translate(51.396106,-103.24942)">$/;"	i
+g6753	_site/images/brind-2020.svg	/^             id="g6753">$/;"	d
+g6753	_site/images/brind-2020.svg	/^             id="g6753">$/;"	i
+g6753	images/brind-2020.svg	/^             id="g6753">$/;"	d
+g6753	images/brind-2020.svg	/^             id="g6753">$/;"	i
+g6785	_site/images/brind-2020.svg	/^             id="g6785">$/;"	d
+g6785	_site/images/brind-2020.svg	/^             id="g6785">$/;"	i
+g6785	images/brind-2020.svg	/^             id="g6785">$/;"	d
+g6785	images/brind-2020.svg	/^             id="g6785">$/;"	i
+g6890	_site/images/brind-2020.svg	/^       transform="translate(-7.5000004)">$/;"	i
+g6890	images/brind-2020.svg	/^       transform="translate(-7.5000004)">$/;"	i
+g6976	_site/images/brind-2020.svg	/^         id="g6976">$/;"	i
+g6976	images/brind-2020.svg	/^         id="g6976">$/;"	i
+g79	_site/images/brind-2021.svg	/^         id="g79">$/;"	i
+g79	images/brind-2021.svg	/^         id="g79">$/;"	i
+g90	_site/images/brind-2021.svg	/^         id="g90">$/;"	i
+g90	images/brind-2021.svg	/^         id="g90">$/;"	i
+georgia	_sass/_variables.scss	/^$georgia: Georgia, serif;$/;"	v
+gray	_sass/_variables.scss	/^$gray: #666;$/;"	v
+h1	_site/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h1	_site/style.css	/^h1 {$/;"	s
+h1	_site/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h1	_site/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+h1 a	_site/style.css	/^h1 a {$/;"	s
+h2	_site/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h2	_site/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h2	_site/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+h2	_site/style.css	/^h2 {$/;"	s
+h2 a	_site/style.css	/^h2 a {$/;"	s
+h3	_site/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h3	_site/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h3	_site/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+h3	_site/style.css	/^h3 {$/;"	s
+h4	_site/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h4	_site/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h4	_site/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+h4	_site/style.css	/^h4 {$/;"	s
+h5	_site/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h5	_site/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h5	_site/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+h6	_site/style.css	/^  h1, h2, h3, h4, h5, h6 {$/;"	s
+h6	_site/style.css	/^h1, h2, h3, h4, h5, h6 {$/;"	s
+h6	_site/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+header	_site/style.css	/^figure, figcaption, footer, header, hgroup,$/;"	s
+header	_site/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+helvetica	_sass/_variables.scss	/^$helvetica: Helvetica, Arial, sans-serif;$/;"	v
+helveticaNeue	_sass/_variables.scss	/^$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;$/;"	v
+hgroup	_site/style.css	/^figure, figcaption, footer, header, hgroup,$/;"	s
+hgroup	_site/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+html	_site/style.css	/^html {$/;"	s
+html	_site/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+i	_site/style.css	/^b, u, i, center,$/;"	s
+i	_site/style.css	/^em, i {$/;"	s
+iframe	_site/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+img	_site/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+img	_site/style.css	/^img {$/;"	s
+inkscape	_site/images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	_site/images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	_site/images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+ins	_site/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+kbd	_site/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+label	_site/style.css	/^fieldset, form, label, legend,$/;"	s
+layer1	_site/images/brind-2020.svg	/^     inkscape:label="Layer 1">$/;"	i
+layer1	images/brind-2020.svg	/^     inkscape:label="Layer 1">$/;"	i
+layer2	_site/images/brind-2020.svg	/^     transform="translate(11.52941,-57.486092)" \/>$/;"	i
+layer2	images/brind-2020.svg	/^     transform="translate(11.52941,-57.486092)" \/>$/;"	i
+legend	_site/style.css	/^fieldset, form, label, legend,$/;"	s
+li	_site/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+lightGray	_sass/_variables.scss	/^$lightGray: #eee;$/;"	v
+ltx-render-layer	_site/images/brind-2020.svg	/^     transform="translate(11.52941,-57.486092)">$/;"	i
+ltx-render-layer	images/brind-2020.svg	/^     transform="translate(11.52941,-57.486092)">$/;"	i
+lx-text4512	_site/images/brind-2020.svg	/^           transform="matrix(1.25,0,0,1.25,1.285719,74.771254)">$/;"	i
+lx-text4512	images/brind-2020.svg	/^           transform="matrix(1.25,0,0,1.25,1.285719,74.771254)">$/;"	i
+lx-text4512-6	_site/images/brind-2020.svg	/^         id="lx-text4512-6">$/;"	i
+lx-text4512-6	images/brind-2020.svg	/^         id="lx-text4512-6">$/;"	i
+lx-text4512-8	_site/images/brind-2020.svg	/^           transform="matrix(1.25,0,0,1.25,130.05422,193.67466)">$/;"	i
+lx-text4512-8	images/brind-2020.svg	/^           transform="matrix(1.25,0,0,1.25,130.05422,193.67466)">$/;"	i
+lx-text4512-8-8	_site/images/brind-2020.svg	/^         id="lx-text4512-8-8">$/;"	i
+lx-text4512-8-8	images/brind-2020.svg	/^         id="lx-text4512-8-8">$/;"	i
+lx-text4512-8-glyph0-0	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-8-glyph0-0	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-8-glyph0-0-3	_site/images/brind-2020.svg	/^         id="lx-text4512-8-glyph0-0-3">$/;"	i
+lx-text4512-8-glyph0-0-3	images/brind-2020.svg	/^         id="lx-text4512-8-glyph0-0-3">$/;"	i
+lx-text4512-8-glyph0-1	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-8-glyph0-1	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-8-glyph0-1-1	_site/images/brind-2020.svg	/^         id="lx-text4512-8-glyph0-1-1">$/;"	i
+lx-text4512-8-glyph0-1-1	images/brind-2020.svg	/^         id="lx-text4512-8-glyph0-1-1">$/;"	i
+lx-text4512-8-glyph0-2	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-8-glyph0-2	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-8-glyph0-2-9	_site/images/brind-2020.svg	/^         id="lx-text4512-8-glyph0-2-9">$/;"	i
+lx-text4512-8-glyph0-2-9	images/brind-2020.svg	/^         id="lx-text4512-8-glyph0-2-9">$/;"	i
+lx-text4512-8-surface1	_site/images/brind-2020.svg	/^             id="lx-text4512-8-surface1">$/;"	i
+lx-text4512-8-surface1	images/brind-2020.svg	/^             id="lx-text4512-8-surface1">$/;"	i
+lx-text4512-8-surface1-1	_site/images/brind-2020.svg	/^           id="lx-text4512-8-surface1-1">$/;"	i
+lx-text4512-8-surface1-1	images/brind-2020.svg	/^           id="lx-text4512-8-surface1-1">$/;"	i
+lx-text4512-glyph0-0	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-glyph0-0	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-glyph0-0-1	_site/images/brind-2020.svg	/^         id="lx-text4512-glyph0-0-1">$/;"	i
+lx-text4512-glyph0-0-1	images/brind-2020.svg	/^         id="lx-text4512-glyph0-0-1">$/;"	i
+lx-text4512-glyph0-1	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-glyph0-1	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-glyph0-1-7	_site/images/brind-2020.svg	/^         id="lx-text4512-glyph0-1-7">$/;"	i
+lx-text4512-glyph0-1-7	images/brind-2020.svg	/^         id="lx-text4512-glyph0-1-7">$/;"	i
+lx-text4512-glyph1-0	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-glyph1-0	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-glyph1-0-2	_site/images/brind-2020.svg	/^         id="lx-text4512-glyph1-0-2">$/;"	i
+lx-text4512-glyph1-0-2	images/brind-2020.svg	/^         id="lx-text4512-glyph1-0-2">$/;"	i
+lx-text4512-glyph1-1	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-glyph1-1	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text4512-glyph1-1-2	_site/images/brind-2020.svg	/^         id="lx-text4512-glyph1-1-2">$/;"	i
+lx-text4512-glyph1-1-2	images/brind-2020.svg	/^         id="lx-text4512-glyph1-1-2">$/;"	i
+lx-text4512-surface1	_site/images/brind-2020.svg	/^             id="lx-text4512-surface1">$/;"	i
+lx-text4512-surface1	images/brind-2020.svg	/^             id="lx-text4512-surface1">$/;"	i
+lx-text4512-surface1-7	_site/images/brind-2020.svg	/^           id="lx-text4512-surface1-7">$/;"	i
+lx-text4512-surface1-7	images/brind-2020.svg	/^           id="lx-text4512-surface1-7">$/;"	i
+lx-text5205	_site/images/brind-2020.svg	/^           transform="matrix(1.25,0,0,1.25,69.045189,182.76007)">$/;"	i
+lx-text5205	images/brind-2020.svg	/^           transform="matrix(1.25,0,0,1.25,69.045189,182.76007)">$/;"	i
+lx-text5205-4	_site/images/brind-2020.svg	/^         id="lx-text5205-4">$/;"	i
+lx-text5205-4	images/brind-2020.svg	/^         id="lx-text5205-4">$/;"	i
+lx-text5205-5	_site/images/brind-2020.svg	/^         id="lx-text5205-5">$/;"	i
+lx-text5205-5	images/brind-2020.svg	/^         id="lx-text5205-5">$/;"	i
+lx-text5205-7	_site/images/brind-2020.svg	/^           transform="matrix(1.25,0,0,1.25,72.397953,193.99054)">$/;"	i
+lx-text5205-7	images/brind-2020.svg	/^           transform="matrix(1.25,0,0,1.25,72.397953,193.99054)">$/;"	i
+lx-text5205-7-2	_site/images/brind-2020.svg	/^         id="lx-text5205-7-2">$/;"	i
+lx-text5205-7-2	images/brind-2020.svg	/^         id="lx-text5205-7-2">$/;"	i
+lx-text5205-7-glyph0-0	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-7-glyph0-0	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-7-glyph0-0-7	_site/images/brind-2020.svg	/^         id="lx-text5205-7-glyph0-0-7">$/;"	i
+lx-text5205-7-glyph0-0-7	images/brind-2020.svg	/^         id="lx-text5205-7-glyph0-0-7">$/;"	i
+lx-text5205-7-glyph0-1	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-7-glyph0-1	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-7-glyph0-1-4	_site/images/brind-2020.svg	/^         id="lx-text5205-7-glyph0-1-4">$/;"	i
+lx-text5205-7-glyph0-1-4	images/brind-2020.svg	/^         id="lx-text5205-7-glyph0-1-4">$/;"	i
+lx-text5205-7-glyph0-2	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-7-glyph0-2	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-7-glyph0-2-0	_site/images/brind-2020.svg	/^         id="lx-text5205-7-glyph0-2-0">$/;"	i
+lx-text5205-7-glyph0-2-0	images/brind-2020.svg	/^         id="lx-text5205-7-glyph0-2-0">$/;"	i
+lx-text5205-7-glyph0-3	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-7-glyph0-3	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-7-glyph0-3-8	_site/images/brind-2020.svg	/^         id="lx-text5205-7-glyph0-3-8">$/;"	i
+lx-text5205-7-glyph0-3-8	images/brind-2020.svg	/^         id="lx-text5205-7-glyph0-3-8">$/;"	i
+lx-text5205-7-glyph0-4	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-7-glyph0-4	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-7-glyph0-4-8	_site/images/brind-2020.svg	/^         id="lx-text5205-7-glyph0-4-8">$/;"	i
+lx-text5205-7-glyph0-4-8	images/brind-2020.svg	/^         id="lx-text5205-7-glyph0-4-8">$/;"	i
+lx-text5205-7-surface1	_site/images/brind-2020.svg	/^             id="lx-text5205-7-surface1">$/;"	i
+lx-text5205-7-surface1	images/brind-2020.svg	/^             id="lx-text5205-7-surface1">$/;"	i
+lx-text5205-7-surface1-4	_site/images/brind-2020.svg	/^           id="lx-text5205-7-surface1-4">$/;"	i
+lx-text5205-7-surface1-4	images/brind-2020.svg	/^           id="lx-text5205-7-surface1-4">$/;"	i
+lx-text5205-glyph0-0	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-0	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-0-2	_site/images/brind-2020.svg	/^               id="lx-text5205-glyph0-0-2">$/;"	i
+lx-text5205-glyph0-0-2	images/brind-2020.svg	/^               id="lx-text5205-glyph0-0-2">$/;"	i
+lx-text5205-glyph0-0-3	_site/images/brind-2020.svg	/^         id="lx-text5205-glyph0-0-3">$/;"	i
+lx-text5205-glyph0-0-3	images/brind-2020.svg	/^         id="lx-text5205-glyph0-0-3">$/;"	i
+lx-text5205-glyph0-1	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-1	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-1-1	_site/images/brind-2020.svg	/^         id="lx-text5205-glyph0-1-1">$/;"	i
+lx-text5205-glyph0-1-1	images/brind-2020.svg	/^         id="lx-text5205-glyph0-1-1">$/;"	i
+lx-text5205-glyph0-1-7	_site/images/brind-2020.svg	/^               id="lx-text5205-glyph0-1-7">$/;"	i
+lx-text5205-glyph0-1-7	images/brind-2020.svg	/^               id="lx-text5205-glyph0-1-7">$/;"	i
+lx-text5205-glyph0-2	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-2	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-2-6	_site/images/brind-2020.svg	/^         id="lx-text5205-glyph0-2-6">$/;"	i
+lx-text5205-glyph0-2-6	images/brind-2020.svg	/^         id="lx-text5205-glyph0-2-6">$/;"	i
+lx-text5205-glyph0-2-7	_site/images/brind-2020.svg	/^               id="lx-text5205-glyph0-2-7">$/;"	i
+lx-text5205-glyph0-2-7	images/brind-2020.svg	/^               id="lx-text5205-glyph0-2-7">$/;"	i
+lx-text5205-glyph0-3	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-3	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-3-2	_site/images/brind-2020.svg	/^         id="lx-text5205-glyph0-3-2">$/;"	i
+lx-text5205-glyph0-3-2	images/brind-2020.svg	/^         id="lx-text5205-glyph0-3-2">$/;"	i
+lx-text5205-glyph0-3-4	_site/images/brind-2020.svg	/^               id="lx-text5205-glyph0-3-4">$/;"	i
+lx-text5205-glyph0-3-4	images/brind-2020.svg	/^               id="lx-text5205-glyph0-3-4">$/;"	i
+lx-text5205-glyph0-4	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-4	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-4-3	_site/images/brind-2020.svg	/^               id="lx-text5205-glyph0-4-3">$/;"	i
+lx-text5205-glyph0-4-3	images/brind-2020.svg	/^               id="lx-text5205-glyph0-4-3">$/;"	i
+lx-text5205-glyph0-4-6	_site/images/brind-2020.svg	/^         id="lx-text5205-glyph0-4-6">$/;"	i
+lx-text5205-glyph0-4-6	images/brind-2020.svg	/^         id="lx-text5205-glyph0-4-6">$/;"	i
+lx-text5205-glyph0-5	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-5	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-5-5	_site/images/brind-2020.svg	/^         id="lx-text5205-glyph0-5-5">$/;"	i
+lx-text5205-glyph0-5-5	images/brind-2020.svg	/^         id="lx-text5205-glyph0-5-5">$/;"	i
+lx-text5205-glyph0-5-6	_site/images/brind-2020.svg	/^               id="lx-text5205-glyph0-5-6">$/;"	i
+lx-text5205-glyph0-5-6	images/brind-2020.svg	/^               id="lx-text5205-glyph0-5-6">$/;"	i
+lx-text5205-glyph0-6	_site/images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-6	images/brind-2020.svg	/^                 style="overflow:visible">$/;"	i
+lx-text5205-glyph0-6-4	_site/images/brind-2020.svg	/^         id="lx-text5205-glyph0-6-4">$/;"	i
+lx-text5205-glyph0-6-4	images/brind-2020.svg	/^         id="lx-text5205-glyph0-6-4">$/;"	i
+lx-text5205-glyph0-6-7	_site/images/brind-2020.svg	/^               id="lx-text5205-glyph0-6-7">$/;"	i
+lx-text5205-glyph0-6-7	images/brind-2020.svg	/^               id="lx-text5205-glyph0-6-7">$/;"	i
+lx-text5205-surface1	_site/images/brind-2020.svg	/^             id="lx-text5205-surface1">$/;"	i
+lx-text5205-surface1	images/brind-2020.svg	/^             id="lx-text5205-surface1">$/;"	i
+lx-text5205-surface1-6	_site/images/brind-2020.svg	/^           id="lx-text5205-surface1-6">$/;"	i
+lx-text5205-surface1-6	images/brind-2020.svg	/^           id="lx-text5205-surface1-6">$/;"	i
+lx-text5205-surface1-9	_site/images/brind-2020.svg	/^           id="lx-text5205-surface1-9" \/>$/;"	i
+lx-text5205-surface1-9	images/brind-2020.svg	/^           id="lx-text5205-surface1-9" \/>$/;"	i
+lx-text6980	_site/images/brind-2020.svg	/^       transform="matrix(1.25,0,0,1.25,121.24724,76.177504)">$/;"	i
+lx-text6980	images/brind-2020.svg	/^       transform="matrix(1.25,0,0,1.25,121.24724,76.177504)">$/;"	i
+lx-text6980-glyph0-0	_site/images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6980-glyph0-0	images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6980-glyph0-1	_site/images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6980-glyph0-1	images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6980-glyph0-2	_site/images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6980-glyph0-2	images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6980-glyph0-3	_site/images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6980-glyph0-3	images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6980-surface1	_site/images/brind-2020.svg	/^         id="lx-text6980-surface1">$/;"	i
+lx-text6980-surface1	images/brind-2020.svg	/^         id="lx-text6980-surface1">$/;"	i
+lx-text6984	_site/images/brind-2020.svg	/^       transform="matrix(1.25,0,0,1.25,305.85124,76.177501)">$/;"	i
+lx-text6984	images/brind-2020.svg	/^       transform="matrix(1.25,0,0,1.25,305.85124,76.177501)">$/;"	i
+lx-text6984-glyph0-0	_site/images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6984-glyph0-0	images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6984-glyph0-1	_site/images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6984-glyph0-1	images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6984-glyph0-2	_site/images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6984-glyph0-2	images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6984-glyph0-3	_site/images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6984-glyph0-3	images/brind-2020.svg	/^             style="overflow:visible">$/;"	i
+lx-text6984-surface1	_site/images/brind-2020.svg	/^         id="lx-text6984-surface1">$/;"	i
+lx-text6984-surface1	images/brind-2020.svg	/^         id="lx-text6984-surface1">$/;"	i
+main	_layouts/default.html	/^    <div id="main" role="main" class="container">$/;"	I
+main	_site/404.html	/^    <div id="main" role="main" class="container">$/;"	I
+main	_site/about/index.html	/^    <div id="main" role="main" class="container">$/;"	I
+main	_site/brind-2020/index.html	/^    <div id="main" role="main" class="container">$/;"	I
+main	_site/brind-2021/index.html	/^    <div id="main" role="main" class="container">$/;"	I
+main	_site/index.html	/^    <div id="main" role="main" class="container">$/;"	I
+mark	_site/style.css	/^time, mark, audio, video {$/;"	s
+marker12557	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker12557	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker12557	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker12557	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker12599	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker12599	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker12599	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker12599	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker4798	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker4798	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker4798	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker4798	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker4903	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker4903	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker4903	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker4903	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker4903-6	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker4903-6	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker4903-6	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker4903-6	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker7020	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker7020	_site/images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker7020	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	d
+marker7020	images/brind-2020.svg	/^       inkscape:isstock="true">$/;"	i
+marker7741	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+marker7741	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+marker7741	images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+marker7741	images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+marker7745	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+marker7745	_site/images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+marker7745	images/brind-2020.svg	/^       style="overflow:visible">$/;"	d
+marker7745	images/brind-2020.svg	/^       style="overflow:visible">$/;"	i
+mask0	_site/images/brind-2021.svg	/^       id="mask0">$/;"	d
+mask0	_site/images/brind-2021.svg	/^       id="mask0">$/;"	i
+mask0	images/brind-2021.svg	/^       id="mask0">$/;"	d
+mask0	images/brind-2021.svg	/^       id="mask0">$/;"	i
+mask1	_site/images/brind-2021.svg	/^       id="mask1">$/;"	d
+mask1	_site/images/brind-2021.svg	/^       id="mask1">$/;"	i
+mask1	images/brind-2021.svg	/^       id="mask1">$/;"	d
+mask1	images/brind-2021.svg	/^       id="mask1">$/;"	i
+mask2	_site/images/brind-2021.svg	/^       id="mask2">$/;"	d
+mask2	_site/images/brind-2021.svg	/^       id="mask2">$/;"	i
+mask2	images/brind-2021.svg	/^       id="mask2">$/;"	d
+mask2	images/brind-2021.svg	/^       id="mask2">$/;"	i
+mask3	_site/images/brind-2021.svg	/^       id="mask3">$/;"	d
+mask3	_site/images/brind-2021.svg	/^       id="mask3">$/;"	i
+mask3	images/brind-2021.svg	/^       id="mask3">$/;"	d
+mask3	images/brind-2021.svg	/^       id="mask3">$/;"	i
+mask4	_site/images/brind-2021.svg	/^       id="mask4">$/;"	d
+mask4	_site/images/brind-2021.svg	/^       id="mask4">$/;"	i
+mask4	images/brind-2021.svg	/^       id="mask4">$/;"	d
+mask4	images/brind-2021.svg	/^       id="mask4">$/;"	i
+mask5	_site/images/brind-2021.svg	/^       id="mask5">$/;"	d
+mask5	_site/images/brind-2021.svg	/^       id="mask5">$/;"	i
+mask5	images/brind-2021.svg	/^       id="mask5">$/;"	d
+mask5	images/brind-2021.svg	/^       id="mask5">$/;"	i
+mask6	_site/images/brind-2021.svg	/^       id="mask6">$/;"	d
+mask6	_site/images/brind-2021.svg	/^       id="mask6">$/;"	i
+mask6	images/brind-2021.svg	/^       id="mask6">$/;"	d
+mask6	images/brind-2021.svg	/^       id="mask6">$/;"	i
+mask7	_site/images/brind-2021.svg	/^       id="mask7">$/;"	d
+mask7	_site/images/brind-2021.svg	/^       id="mask7">$/;"	i
+mask7	images/brind-2021.svg	/^       id="mask7">$/;"	d
+mask7	images/brind-2021.svg	/^       id="mask7">$/;"	i
+mask8	_site/images/brind-2021.svg	/^       id="mask8">$/;"	d
+mask8	_site/images/brind-2021.svg	/^       id="mask8">$/;"	i
+mask8	images/brind-2021.svg	/^       id="mask8">$/;"	d
+mask8	images/brind-2021.svg	/^       id="mask8">$/;"	i
+mask9	_site/images/brind-2021.svg	/^       id="mask9">$/;"	d
+mask9	_site/images/brind-2021.svg	/^       id="mask9">$/;"	i
+mask9	images/brind-2021.svg	/^       id="mask9">$/;"	d
+mask9	images/brind-2021.svg	/^       id="mask9">$/;"	i
+menu	_site/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+menu	_site/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+metadata1036	_site/images/brind-2021.svg	/^     id="metadata1036">$/;"	i
+metadata1036	images/brind-2021.svg	/^     id="metadata1036">$/;"	i
+metadata62	_site/images/Whittle_Lab_Logo_Black.svg	/^     id="metadata62">$/;"	i
+metadata62	images/Whittle_Lab_Logo_Black.svg	/^     id="metadata62">$/;"	i
+metadata6757	_site/images/brind-2020.svg	/^     id="metadata6757">$/;"	i
+metadata6757	images/brind-2020.svg	/^     id="metadata6757">$/;"	i
+mobile	_sass/_variables.scss	/^@mixin mobile {$/;"	m
+more-information	_site/about/index.html	/^<h3 id="more-information">More Information<\/h3>$/;"	I
+namedview1034	_site/images/brind-2021.svg	/^     inkscape:current-layer="svg1032" \/>$/;"	i
+namedview1034	images/brind-2021.svg	/^     inkscape:current-layer="svg1032" \/>$/;"	i
+namedview60	_site/images/Whittle_Lab_Logo_Black.svg	/^     inkscape:current-layer="svg58" \/>$/;"	i
+namedview60	images/Whittle_Lab_Logo_Black.svg	/^     inkscape:current-layer="svg58" \/>$/;"	i
+nav	_site/style.css	/^  nav {$/;"	s
+nav	_site/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+nav	_site/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+nav	_site/style.css	/^nav {$/;"	s
+nav a	_site/style.css	/^  nav a {$/;"	s
+nav a	_site/style.css	/^nav a {$/;"	s
+ns032850cb0101	_site/images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://www.w3.org/2000/svg
+ns033a694c0101	_site/images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/2000/svg
+ns4092b1080101	images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://www.w3.org/2000/svg
+ns40a4c9890101	images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/2000/svg
+ns6d13c5660101	_site/images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/2000/svg
+nsa17ebafb0101	_site/feed.xml	/^<?xml version="1.0" encoding="utf-8"?><feed xmlns="http:\/\/www.w3.org\/2005\/Atom" ><generator /;"	n	uri:http://www.w3.org/2005/Atom
+nsa6b369230101	images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/2000/svg
+nsd0b6adda0101	_site/sitemap.xml	/^<urlset xmlns:xsi="http:\/\/www.w3.org\/2001\/XMLSchema-instance" xsi:schemaLocation="http:\/\/w/;"	n	uri:http://www.sitemaps.org/schemas/sitemap/0.9
+object	_site/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+ol	_site/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+ol	_site/style.css	/^ol {$/;"	s
+ol	_site/style.css	/^ol, ul {$/;"	s
+ol	_site/style.css	/^ul, ol {$/;"	s
+ol ol	_site/style.css	/^ol ul, ul ol, ul ul, ol ol {$/;"	s
+ol ul	_site/style.css	/^ol ul, ul ol, ul ul, ol ol {$/;"	s
+ol ul	_site/style.css	/^ul ul, ol ul {$/;"	s
+output	_site/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+p	_site/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+p	_site/style.css	/^p {$/;"	s
+path1001	_site/images/brind-2021.svg	/^       id="path1001" \/>$/;"	i
+path1001	images/brind-2021.svg	/^       id="path1001" \/>$/;"	i
+path1003	_site/images/brind-2021.svg	/^       id="path1003" \/>$/;"	i
+path1003	images/brind-2021.svg	/^       id="path1003" \/>$/;"	i
+path1005	_site/images/brind-2021.svg	/^       id="path1005" \/>$/;"	i
+path1005	images/brind-2021.svg	/^       id="path1005" \/>$/;"	i
+path1007	_site/images/brind-2021.svg	/^       id="path1007" \/>$/;"	i
+path1007	images/brind-2021.svg	/^       id="path1007" \/>$/;"	i
+path1009	_site/images/brind-2021.svg	/^       id="path1009" \/>$/;"	i
+path1009	images/brind-2021.svg	/^       id="path1009" \/>$/;"	i
+path1011	_site/images/brind-2021.svg	/^       id="path1011" \/>$/;"	i
+path1011	images/brind-2021.svg	/^       id="path1011" \/>$/;"	i
+path1013	_site/images/brind-2021.svg	/^       id="path1013" \/>$/;"	i
+path1013	images/brind-2021.svg	/^       id="path1013" \/>$/;"	i
+path1015	_site/images/brind-2021.svg	/^       id="path1015" \/>$/;"	i
+path1015	images/brind-2021.svg	/^       id="path1015" \/>$/;"	i
+path1017	_site/images/brind-2021.svg	/^       id="path1017" \/>$/;"	i
+path1017	images/brind-2021.svg	/^       id="path1017" \/>$/;"	i
+path1019	_site/images/brind-2021.svg	/^       id="path1019" \/>$/;"	i
+path1019	images/brind-2021.svg	/^       id="path1019" \/>$/;"	i
+path1021	_site/images/brind-2021.svg	/^       id="path1021" \/>$/;"	i
+path1021	images/brind-2021.svg	/^       id="path1021" \/>$/;"	i
+path1023	_site/images/brind-2021.svg	/^       id="path1023" \/>$/;"	i
+path1023	images/brind-2021.svg	/^       id="path1023" \/>$/;"	i
+path1025	_site/images/brind-2021.svg	/^       id="path1025" \/>$/;"	i
+path1025	images/brind-2021.svg	/^       id="path1025" \/>$/;"	i
+path1027	_site/images/brind-2021.svg	/^       id="path1027" \/>$/;"	i
+path1027	images/brind-2021.svg	/^       id="path1027" \/>$/;"	i
+path1029	_site/images/brind-2021.svg	/^       id="path1029" \/>$/;"	i
+path1029	images/brind-2021.svg	/^       id="path1029" \/>$/;"	i
+path110	_site/images/brind-2021.svg	/^         id="path110" \/>$/;"	i
+path110	images/brind-2021.svg	/^         id="path110" \/>$/;"	i
+path113	_site/images/brind-2021.svg	/^         id="path113" \/>$/;"	i
+path113	images/brind-2021.svg	/^         id="path113" \/>$/;"	i
+path124	_site/images/brind-2021.svg	/^         id="path124" \/>$/;"	i
+path124	images/brind-2021.svg	/^         id="path124" \/>$/;"	i
+path12559	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path12559	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path12601	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path12601	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path129	_site/images/brind-2021.svg	/^       id="path129" \/>$/;"	i
+path129	images/brind-2021.svg	/^       id="path129" \/>$/;"	i
+path13	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path13" \/>$/;"	i
+path13	images/Whittle_Lab_Logo_Black.svg	/^       id="path13" \/>$/;"	i
+path131	_site/images/brind-2021.svg	/^       id="path131" \/>$/;"	i
+path131	images/brind-2021.svg	/^       id="path131" \/>$/;"	i
+path133	_site/images/brind-2021.svg	/^       id="path133" \/>$/;"	i
+path133	images/brind-2021.svg	/^       id="path133" \/>$/;"	i
+path149	_site/images/brind-2021.svg	/^       id="path149" \/>$/;"	i
+path149	images/brind-2021.svg	/^       id="path149" \/>$/;"	i
+path15	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path15" \/>$/;"	i
+path15	images/Whittle_Lab_Logo_Black.svg	/^       id="path15" \/>$/;"	i
+path151	_site/images/brind-2021.svg	/^       id="path151" \/>$/;"	i
+path151	images/brind-2021.svg	/^       id="path151" \/>$/;"	i
+path153	_site/images/brind-2021.svg	/^       id="path153" \/>$/;"	i
+path153	images/brind-2021.svg	/^       id="path153" \/>$/;"	i
+path155	_site/images/brind-2021.svg	/^       id="path155" \/>$/;"	i
+path155	images/brind-2021.svg	/^       id="path155" \/>$/;"	i
+path157	_site/images/brind-2021.svg	/^       id="path157" \/>$/;"	i
+path157	images/brind-2021.svg	/^       id="path157" \/>$/;"	i
+path159	_site/images/brind-2021.svg	/^       id="path159" \/>$/;"	i
+path159	images/brind-2021.svg	/^       id="path159" \/>$/;"	i
+path16	_site/images/brind-2021.svg	/^         id="path16" \/>$/;"	i
+path16	images/brind-2021.svg	/^         id="path16" \/>$/;"	i
+path161	_site/images/brind-2021.svg	/^       id="path161" \/>$/;"	i
+path161	images/brind-2021.svg	/^       id="path161" \/>$/;"	i
+path163	_site/images/brind-2021.svg	/^       id="path163" \/>$/;"	i
+path163	images/brind-2021.svg	/^       id="path163" \/>$/;"	i
+path165	_site/images/brind-2021.svg	/^       id="path165" \/>$/;"	i
+path165	images/brind-2021.svg	/^       id="path165" \/>$/;"	i
+path167	_site/images/brind-2021.svg	/^       id="path167" \/>$/;"	i
+path167	images/brind-2021.svg	/^       id="path167" \/>$/;"	i
+path169	_site/images/brind-2021.svg	/^       id="path169" \/>$/;"	i
+path169	images/brind-2021.svg	/^       id="path169" \/>$/;"	i
+path17	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path17" \/>$/;"	i
+path17	images/Whittle_Lab_Logo_Black.svg	/^       id="path17" \/>$/;"	i
+path171	_site/images/brind-2021.svg	/^       id="path171" \/>$/;"	i
+path171	images/brind-2021.svg	/^       id="path171" \/>$/;"	i
+path17126	_site/images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17126	images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17129	_site/images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17129	images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17132	_site/images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17132	images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17135	_site/images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17135	images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17152	_site/images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17152	images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17155	_site/images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17155	images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17158	_site/images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17158	images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17161	_site/images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path17161	images/brind-2020.svg	/^               inkscape:connector-curvature="0" \/>$/;"	i
+path173	_site/images/brind-2021.svg	/^       id="path173" \/>$/;"	i
+path173	images/brind-2021.svg	/^       id="path173" \/>$/;"	i
+path175	_site/images/brind-2021.svg	/^       id="path175" \/>$/;"	i
+path175	images/brind-2021.svg	/^       id="path175" \/>$/;"	i
+path177	_site/images/brind-2021.svg	/^       id="path177" \/>$/;"	i
+path177	images/brind-2021.svg	/^       id="path177" \/>$/;"	i
+path179	_site/images/brind-2021.svg	/^       id="path179" \/>$/;"	i
+path179	images/brind-2021.svg	/^       id="path179" \/>$/;"	i
+path181	_site/images/brind-2021.svg	/^       id="path181" \/>$/;"	i
+path181	images/brind-2021.svg	/^       id="path181" \/>$/;"	i
+path183	_site/images/brind-2021.svg	/^       id="path183" \/>$/;"	i
+path183	images/brind-2021.svg	/^       id="path183" \/>$/;"	i
+path185	_site/images/brind-2021.svg	/^       id="path185" \/>$/;"	i
+path185	images/brind-2021.svg	/^       id="path185" \/>$/;"	i
+path187	_site/images/brind-2021.svg	/^       id="path187" \/>$/;"	i
+path187	images/brind-2021.svg	/^       id="path187" \/>$/;"	i
+path189	_site/images/brind-2021.svg	/^       id="path189" \/>$/;"	i
+path189	images/brind-2021.svg	/^       id="path189" \/>$/;"	i
+path19	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path19" \/>$/;"	i
+path19	images/Whittle_Lab_Logo_Black.svg	/^       id="path19" \/>$/;"	i
+path191	_site/images/brind-2021.svg	/^       id="path191" \/>$/;"	i
+path191	images/brind-2021.svg	/^       id="path191" \/>$/;"	i
+path193	_site/images/brind-2021.svg	/^       id="path193" \/>$/;"	i
+path193	images/brind-2021.svg	/^       id="path193" \/>$/;"	i
+path195	_site/images/brind-2021.svg	/^       id="path195" \/>$/;"	i
+path195	images/brind-2021.svg	/^       id="path195" \/>$/;"	i
+path197	_site/images/brind-2021.svg	/^       id="path197" \/>$/;"	i
+path197	images/brind-2021.svg	/^       id="path197" \/>$/;"	i
+path2	_site/images/Whittle_Lab_Logo_Black.svg	/^         id="path2" \/>$/;"	i
+path2	_site/images/brind-2021.svg	/^         id="path2" \/>$/;"	i
+path2	images/Whittle_Lab_Logo_Black.svg	/^         id="path2" \/>$/;"	i
+path2	images/brind-2021.svg	/^         id="path2" \/>$/;"	i
+path205	_site/images/brind-2021.svg	/^       id="path205" \/>$/;"	i
+path205	images/brind-2021.svg	/^       id="path205" \/>$/;"	i
+path207	_site/images/brind-2021.svg	/^       id="path207" \/>$/;"	i
+path207	images/brind-2021.svg	/^       id="path207" \/>$/;"	i
+path209	_site/images/brind-2021.svg	/^       id="path209" \/>$/;"	i
+path209	images/brind-2021.svg	/^       id="path209" \/>$/;"	i
+path21	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path21" \/>$/;"	i
+path21	images/Whittle_Lab_Logo_Black.svg	/^       id="path21" \/>$/;"	i
+path211	_site/images/brind-2021.svg	/^       id="path211" \/>$/;"	i
+path211	images/brind-2021.svg	/^       id="path211" \/>$/;"	i
+path213	_site/images/brind-2021.svg	/^       id="path213" \/>$/;"	i
+path213	images/brind-2021.svg	/^       id="path213" \/>$/;"	i
+path215	_site/images/brind-2021.svg	/^       id="path215" \/>$/;"	i
+path215	images/brind-2021.svg	/^       id="path215" \/>$/;"	i
+path217	_site/images/brind-2021.svg	/^       id="path217" \/>$/;"	i
+path217	images/brind-2021.svg	/^       id="path217" \/>$/;"	i
+path219	_site/images/brind-2021.svg	/^       id="path219" \/>$/;"	i
+path219	images/brind-2021.svg	/^       id="path219" \/>$/;"	i
+path221	_site/images/brind-2021.svg	/^       id="path221" \/>$/;"	i
+path221	images/brind-2021.svg	/^       id="path221" \/>$/;"	i
+path223	_site/images/brind-2021.svg	/^       id="path223" \/>$/;"	i
+path223	images/brind-2021.svg	/^       id="path223" \/>$/;"	i
+path225	_site/images/brind-2021.svg	/^       id="path225" \/>$/;"	i
+path225	images/brind-2021.svg	/^       id="path225" \/>$/;"	i
+path227	_site/images/brind-2021.svg	/^       id="path227" \/>$/;"	i
+path227	images/brind-2021.svg	/^       id="path227" \/>$/;"	i
+path229	_site/images/brind-2021.svg	/^       id="path229" \/>$/;"	i
+path229	images/brind-2021.svg	/^       id="path229" \/>$/;"	i
+path23	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path23" \/>$/;"	i
+path23	images/Whittle_Lab_Logo_Black.svg	/^       id="path23" \/>$/;"	i
+path231	_site/images/brind-2021.svg	/^       id="path231" \/>$/;"	i
+path231	images/brind-2021.svg	/^       id="path231" \/>$/;"	i
+path233	_site/images/brind-2021.svg	/^       id="path233" \/>$/;"	i
+path233	images/brind-2021.svg	/^       id="path233" \/>$/;"	i
+path235	_site/images/brind-2021.svg	/^       id="path235" \/>$/;"	i
+path235	images/brind-2021.svg	/^       id="path235" \/>$/;"	i
+path237	_site/images/brind-2021.svg	/^       id="path237" \/>$/;"	i
+path237	images/brind-2021.svg	/^       id="path237" \/>$/;"	i
+path239	_site/images/brind-2021.svg	/^       id="path239" \/>$/;"	i
+path239	images/brind-2021.svg	/^       id="path239" \/>$/;"	i
+path241	_site/images/brind-2021.svg	/^       id="path241" \/>$/;"	i
+path241	images/brind-2021.svg	/^       id="path241" \/>$/;"	i
+path243	_site/images/brind-2021.svg	/^       id="path243" \/>$/;"	i
+path243	images/brind-2021.svg	/^       id="path243" \/>$/;"	i
+path245	_site/images/brind-2021.svg	/^       id="path245" \/>$/;"	i
+path245	images/brind-2021.svg	/^       id="path245" \/>$/;"	i
+path247	_site/images/brind-2021.svg	/^       id="path247" \/>$/;"	i
+path247	images/brind-2021.svg	/^       id="path247" \/>$/;"	i
+path249	_site/images/brind-2021.svg	/^       id="path249" \/>$/;"	i
+path249	images/brind-2021.svg	/^       id="path249" \/>$/;"	i
+path25	_site/images/Whittle_Lab_Logo_Black.svg	/^         id="path25" \/>$/;"	i
+path25	images/Whittle_Lab_Logo_Black.svg	/^         id="path25" \/>$/;"	i
+path251	_site/images/brind-2021.svg	/^       id="path251" \/>$/;"	i
+path251	images/brind-2021.svg	/^       id="path251" \/>$/;"	i
+path253	_site/images/brind-2021.svg	/^       id="path253" \/>$/;"	i
+path253	images/brind-2021.svg	/^       id="path253" \/>$/;"	i
+path259	_site/images/brind-2021.svg	/^       id="path259" \/>$/;"	i
+path259	images/brind-2021.svg	/^       id="path259" \/>$/;"	i
+path261	_site/images/brind-2021.svg	/^       id="path261" \/>$/;"	i
+path261	images/brind-2021.svg	/^       id="path261" \/>$/;"	i
+path263	_site/images/brind-2021.svg	/^       id="path263" \/>$/;"	i
+path263	images/brind-2021.svg	/^       id="path263" \/>$/;"	i
+path269	_site/images/brind-2021.svg	/^       id="path269" \/>$/;"	i
+path269	images/brind-2021.svg	/^       id="path269" \/>$/;"	i
+path27	_site/images/brind-2021.svg	/^         id="path27" \/>$/;"	i
+path27	images/brind-2021.svg	/^         id="path27" \/>$/;"	i
+path271	_site/images/brind-2021.svg	/^       id="path271" \/>$/;"	i
+path271	images/brind-2021.svg	/^       id="path271" \/>$/;"	i
+path273	_site/images/brind-2021.svg	/^       id="path273" \/>$/;"	i
+path273	images/brind-2021.svg	/^       id="path273" \/>$/;"	i
+path275	_site/images/brind-2021.svg	/^       id="path275" \/>$/;"	i
+path275	images/brind-2021.svg	/^       id="path275" \/>$/;"	i
+path277	_site/images/brind-2021.svg	/^       id="path277" \/>$/;"	i
+path277	images/brind-2021.svg	/^       id="path277" \/>$/;"	i
+path279	_site/images/brind-2021.svg	/^       id="path279" \/>$/;"	i
+path279	images/brind-2021.svg	/^       id="path279" \/>$/;"	i
+path281	_site/images/brind-2021.svg	/^       id="path281" \/>$/;"	i
+path281	images/brind-2021.svg	/^       id="path281" \/>$/;"	i
+path283	_site/images/brind-2021.svg	/^       id="path283" \/>$/;"	i
+path283	images/brind-2021.svg	/^       id="path283" \/>$/;"	i
+path285	_site/images/brind-2021.svg	/^       id="path285" \/>$/;"	i
+path285	images/brind-2021.svg	/^       id="path285" \/>$/;"	i
+path287	_site/images/brind-2021.svg	/^       id="path287" \/>$/;"	i
+path287	images/brind-2021.svg	/^       id="path287" \/>$/;"	i
+path289	_site/images/brind-2021.svg	/^       id="path289" \/>$/;"	i
+path289	images/brind-2021.svg	/^       id="path289" \/>$/;"	i
+path29	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path29" \/>$/;"	i
+path29	images/Whittle_Lab_Logo_Black.svg	/^       id="path29" \/>$/;"	i
+path291	_site/images/brind-2021.svg	/^       id="path291" \/>$/;"	i
+path291	images/brind-2021.svg	/^       id="path291" \/>$/;"	i
+path293	_site/images/brind-2021.svg	/^       id="path293" \/>$/;"	i
+path293	images/brind-2021.svg	/^       id="path293" \/>$/;"	i
+path295	_site/images/brind-2021.svg	/^       id="path295" \/>$/;"	i
+path295	images/brind-2021.svg	/^       id="path295" \/>$/;"	i
+path297	_site/images/brind-2021.svg	/^       id="path297" \/>$/;"	i
+path297	images/brind-2021.svg	/^       id="path297" \/>$/;"	i
+path299	_site/images/brind-2021.svg	/^       id="path299" \/>$/;"	i
+path299	images/brind-2021.svg	/^       id="path299" \/>$/;"	i
+path301	_site/images/brind-2021.svg	/^       id="path301" \/>$/;"	i
+path301	images/brind-2021.svg	/^       id="path301" \/>$/;"	i
+path303	_site/images/brind-2021.svg	/^       id="path303" \/>$/;"	i
+path303	images/brind-2021.svg	/^       id="path303" \/>$/;"	i
+path305	_site/images/brind-2021.svg	/^       id="path305" \/>$/;"	i
+path305	images/brind-2021.svg	/^       id="path305" \/>$/;"	i
+path307	_site/images/brind-2021.svg	/^       id="path307" \/>$/;"	i
+path307	images/brind-2021.svg	/^       id="path307" \/>$/;"	i
+path309	_site/images/brind-2021.svg	/^       id="path309" \/>$/;"	i
+path309	images/brind-2021.svg	/^       id="path309" \/>$/;"	i
+path31	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path31" \/>$/;"	i
+path31	images/Whittle_Lab_Logo_Black.svg	/^       id="path31" \/>$/;"	i
+path311	_site/images/brind-2021.svg	/^       id="path311" \/>$/;"	i
+path311	images/brind-2021.svg	/^       id="path311" \/>$/;"	i
+path313	_site/images/brind-2021.svg	/^       id="path313" \/>$/;"	i
+path313	images/brind-2021.svg	/^       id="path313" \/>$/;"	i
+path315	_site/images/brind-2021.svg	/^       id="path315" \/>$/;"	i
+path315	images/brind-2021.svg	/^       id="path315" \/>$/;"	i
+path317	_site/images/brind-2021.svg	/^       id="path317" \/>$/;"	i
+path317	images/brind-2021.svg	/^       id="path317" \/>$/;"	i
+path319	_site/images/brind-2021.svg	/^       id="path319" \/>$/;"	i
+path319	images/brind-2021.svg	/^       id="path319" \/>$/;"	i
+path321	_site/images/brind-2021.svg	/^       id="path321" \/>$/;"	i
+path321	images/brind-2021.svg	/^       id="path321" \/>$/;"	i
+path323	_site/images/brind-2021.svg	/^       id="path323" \/>$/;"	i
+path323	images/brind-2021.svg	/^       id="path323" \/>$/;"	i
+path3234	_site/images/brind-2020.svg	/^           sodipodi:nodetypes="ccc" \/>$/;"	i
+path3234	images/brind-2020.svg	/^           sodipodi:nodetypes="ccc" \/>$/;"	i
+path3234-6	_site/images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path3234-6	images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path325	_site/images/brind-2021.svg	/^       id="path325" \/>$/;"	i
+path325	images/brind-2021.svg	/^       id="path325" \/>$/;"	i
+path327	_site/images/brind-2021.svg	/^       id="path327" \/>$/;"	i
+path327	images/brind-2021.svg	/^       id="path327" \/>$/;"	i
+path329	_site/images/brind-2021.svg	/^       id="path329" \/>$/;"	i
+path329	images/brind-2021.svg	/^       id="path329" \/>$/;"	i
+path33	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path33" \/>$/;"	i
+path33	images/Whittle_Lab_Logo_Black.svg	/^       id="path33" \/>$/;"	i
+path331	_site/images/brind-2021.svg	/^       id="path331" \/>$/;"	i
+path331	images/brind-2021.svg	/^       id="path331" \/>$/;"	i
+path333	_site/images/brind-2021.svg	/^       id="path333" \/>$/;"	i
+path333	images/brind-2021.svg	/^       id="path333" \/>$/;"	i
+path335	_site/images/brind-2021.svg	/^       id="path335" \/>$/;"	i
+path335	images/brind-2021.svg	/^       id="path335" \/>$/;"	i
+path337	_site/images/brind-2021.svg	/^       id="path337" \/>$/;"	i
+path337	images/brind-2021.svg	/^       id="path337" \/>$/;"	i
+path339	_site/images/brind-2021.svg	/^       id="path339" \/>$/;"	i
+path339	images/brind-2021.svg	/^       id="path339" \/>$/;"	i
+path341	_site/images/brind-2021.svg	/^       id="path341" \/>$/;"	i
+path341	images/brind-2021.svg	/^       id="path341" \/>$/;"	i
+path343	_site/images/brind-2021.svg	/^       id="path343" \/>$/;"	i
+path343	images/brind-2021.svg	/^       id="path343" \/>$/;"	i
+path345	_site/images/brind-2021.svg	/^       id="path345" \/>$/;"	i
+path345	images/brind-2021.svg	/^       id="path345" \/>$/;"	i
+path347	_site/images/brind-2021.svg	/^       id="path347" \/>$/;"	i
+path347	images/brind-2021.svg	/^       id="path347" \/>$/;"	i
+path349	_site/images/brind-2021.svg	/^       id="path349" \/>$/;"	i
+path349	images/brind-2021.svg	/^       id="path349" \/>$/;"	i
+path35	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path35" \/>$/;"	i
+path35	images/Whittle_Lab_Logo_Black.svg	/^       id="path35" \/>$/;"	i
+path351	_site/images/brind-2021.svg	/^       id="path351" \/>$/;"	i
+path351	images/brind-2021.svg	/^       id="path351" \/>$/;"	i
+path353	_site/images/brind-2021.svg	/^       id="path353" \/>$/;"	i
+path353	images/brind-2021.svg	/^       id="path353" \/>$/;"	i
+path355	_site/images/brind-2021.svg	/^       id="path355" \/>$/;"	i
+path355	images/brind-2021.svg	/^       id="path355" \/>$/;"	i
+path357	_site/images/brind-2021.svg	/^       id="path357" \/>$/;"	i
+path357	images/brind-2021.svg	/^       id="path357" \/>$/;"	i
+path359	_site/images/brind-2021.svg	/^       id="path359" \/>$/;"	i
+path359	images/brind-2021.svg	/^       id="path359" \/>$/;"	i
+path361	_site/images/brind-2021.svg	/^       id="path361" \/>$/;"	i
+path361	images/brind-2021.svg	/^       id="path361" \/>$/;"	i
+path363	_site/images/brind-2021.svg	/^       id="path363" \/>$/;"	i
+path363	images/brind-2021.svg	/^       id="path363" \/>$/;"	i
+path365	_site/images/brind-2021.svg	/^       id="path365" \/>$/;"	i
+path365	images/brind-2021.svg	/^       id="path365" \/>$/;"	i
+path367	_site/images/brind-2021.svg	/^       id="path367" \/>$/;"	i
+path367	images/brind-2021.svg	/^       id="path367" \/>$/;"	i
+path369	_site/images/brind-2021.svg	/^       id="path369" \/>$/;"	i
+path369	images/brind-2021.svg	/^       id="path369" \/>$/;"	i
+path37	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path37" \/>$/;"	i
+path37	images/Whittle_Lab_Logo_Black.svg	/^       id="path37" \/>$/;"	i
+path371	_site/images/brind-2021.svg	/^       id="path371" \/>$/;"	i
+path371	images/brind-2021.svg	/^       id="path371" \/>$/;"	i
+path373	_site/images/brind-2021.svg	/^       id="path373" \/>$/;"	i
+path373	images/brind-2021.svg	/^       id="path373" \/>$/;"	i
+path375	_site/images/brind-2021.svg	/^       id="path375" \/>$/;"	i
+path375	images/brind-2021.svg	/^       id="path375" \/>$/;"	i
+path377	_site/images/brind-2021.svg	/^       id="path377" \/>$/;"	i
+path377	images/brind-2021.svg	/^       id="path377" \/>$/;"	i
+path379	_site/images/brind-2021.svg	/^       id="path379" \/>$/;"	i
+path379	images/brind-2021.svg	/^       id="path379" \/>$/;"	i
+path38	_site/images/brind-2021.svg	/^         id="path38" \/>$/;"	i
+path38	images/brind-2021.svg	/^         id="path38" \/>$/;"	i
+path381	_site/images/brind-2021.svg	/^       id="path381" \/>$/;"	i
+path381	images/brind-2021.svg	/^       id="path381" \/>$/;"	i
+path383	_site/images/brind-2021.svg	/^       id="path383" \/>$/;"	i
+path383	images/brind-2021.svg	/^       id="path383" \/>$/;"	i
+path385	_site/images/brind-2021.svg	/^       id="path385" \/>$/;"	i
+path385	images/brind-2021.svg	/^       id="path385" \/>$/;"	i
+path387	_site/images/brind-2021.svg	/^       id="path387" \/>$/;"	i
+path387	images/brind-2021.svg	/^       id="path387" \/>$/;"	i
+path389	_site/images/brind-2021.svg	/^       id="path389" \/>$/;"	i
+path389	images/brind-2021.svg	/^       id="path389" \/>$/;"	i
+path39	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path39" \/>$/;"	i
+path39	images/Whittle_Lab_Logo_Black.svg	/^       id="path39" \/>$/;"	i
+path391	_site/images/brind-2021.svg	/^       id="path391" \/>$/;"	i
+path391	images/brind-2021.svg	/^       id="path391" \/>$/;"	i
+path393	_site/images/brind-2021.svg	/^       id="path393" \/>$/;"	i
+path393	images/brind-2021.svg	/^       id="path393" \/>$/;"	i
+path395	_site/images/brind-2021.svg	/^       id="path395" \/>$/;"	i
+path395	images/brind-2021.svg	/^       id="path395" \/>$/;"	i
+path397	_site/images/brind-2021.svg	/^       id="path397" \/>$/;"	i
+path397	images/brind-2021.svg	/^       id="path397" \/>$/;"	i
+path399	_site/images/brind-2021.svg	/^       id="path399" \/>$/;"	i
+path399	images/brind-2021.svg	/^       id="path399" \/>$/;"	i
+path401	_site/images/brind-2021.svg	/^       id="path401" \/>$/;"	i
+path401	images/brind-2021.svg	/^       id="path401" \/>$/;"	i
+path403	_site/images/brind-2021.svg	/^       id="path403" \/>$/;"	i
+path403	images/brind-2021.svg	/^       id="path403" \/>$/;"	i
+path405	_site/images/brind-2021.svg	/^       id="path405" \/>$/;"	i
+path405	images/brind-2021.svg	/^       id="path405" \/>$/;"	i
+path407	_site/images/brind-2021.svg	/^       id="path407" \/>$/;"	i
+path407	images/brind-2021.svg	/^       id="path407" \/>$/;"	i
+path409	_site/images/brind-2021.svg	/^       id="path409" \/>$/;"	i
+path409	images/brind-2021.svg	/^       id="path409" \/>$/;"	i
+path41	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path41" \/>$/;"	i
+path41	images/Whittle_Lab_Logo_Black.svg	/^       id="path41" \/>$/;"	i
+path411	_site/images/brind-2021.svg	/^       id="path411" \/>$/;"	i
+path411	images/brind-2021.svg	/^       id="path411" \/>$/;"	i
+path413	_site/images/brind-2021.svg	/^       id="path413" \/>$/;"	i
+path413	images/brind-2021.svg	/^       id="path413" \/>$/;"	i
+path415	_site/images/brind-2021.svg	/^       id="path415" \/>$/;"	i
+path415	images/brind-2021.svg	/^       id="path415" \/>$/;"	i
+path417	_site/images/brind-2021.svg	/^       id="path417" \/>$/;"	i
+path417	images/brind-2021.svg	/^       id="path417" \/>$/;"	i
+path419	_site/images/brind-2021.svg	/^       id="path419" \/>$/;"	i
+path419	images/brind-2021.svg	/^       id="path419" \/>$/;"	i
+path421	_site/images/brind-2021.svg	/^       id="path421" \/>$/;"	i
+path421	images/brind-2021.svg	/^       id="path421" \/>$/;"	i
+path423	_site/images/brind-2021.svg	/^       id="path423" \/>$/;"	i
+path423	images/brind-2021.svg	/^       id="path423" \/>$/;"	i
+path425	_site/images/brind-2021.svg	/^       id="path425" \/>$/;"	i
+path425	images/brind-2021.svg	/^       id="path425" \/>$/;"	i
+path427	_site/images/brind-2021.svg	/^       id="path427" \/>$/;"	i
+path427	images/brind-2021.svg	/^       id="path427" \/>$/;"	i
+path429	_site/images/brind-2021.svg	/^       id="path429" \/>$/;"	i
+path429	images/brind-2021.svg	/^       id="path429" \/>$/;"	i
+path43	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path43" \/>$/;"	i
+path43	images/Whittle_Lab_Logo_Black.svg	/^       id="path43" \/>$/;"	i
+path431	_site/images/brind-2021.svg	/^       id="path431" \/>$/;"	i
+path431	images/brind-2021.svg	/^       id="path431" \/>$/;"	i
+path433	_site/images/brind-2021.svg	/^       id="path433" \/>$/;"	i
+path433	images/brind-2021.svg	/^       id="path433" \/>$/;"	i
+path435	_site/images/brind-2021.svg	/^       id="path435" \/>$/;"	i
+path435	images/brind-2021.svg	/^       id="path435" \/>$/;"	i
+path437	_site/images/brind-2021.svg	/^       id="path437" \/>$/;"	i
+path437	images/brind-2021.svg	/^       id="path437" \/>$/;"	i
+path439	_site/images/brind-2021.svg	/^       id="path439" \/>$/;"	i
+path439	images/brind-2021.svg	/^       id="path439" \/>$/;"	i
+path441	_site/images/brind-2021.svg	/^       id="path441" \/>$/;"	i
+path441	images/brind-2021.svg	/^       id="path441" \/>$/;"	i
+path4416	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4416	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path443	_site/images/brind-2021.svg	/^       id="path443" \/>$/;"	i
+path443	images/brind-2021.svg	/^       id="path443" \/>$/;"	i
+path445	_site/images/brind-2021.svg	/^       id="path445" \/>$/;"	i
+path445	images/brind-2021.svg	/^       id="path445" \/>$/;"	i
+path447	_site/images/brind-2021.svg	/^       id="path447" \/>$/;"	i
+path447	images/brind-2021.svg	/^       id="path447" \/>$/;"	i
+path449	_site/images/brind-2021.svg	/^       id="path449" \/>$/;"	i
+path449	images/brind-2021.svg	/^       id="path449" \/>$/;"	i
+path45	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path45" \/>$/;"	i
+path45	images/Whittle_Lab_Logo_Black.svg	/^       id="path45" \/>$/;"	i
+path4508	_site/images/brind-2020.svg	/^           sodipodi:nodetypes="csssc" \/>$/;"	i
+path4508	images/brind-2020.svg	/^           sodipodi:nodetypes="csssc" \/>$/;"	i
+path4508-1	_site/images/brind-2020.svg	/^           sodipodi:nodetypes="cc" \/>$/;"	i
+path4508-1	images/brind-2020.svg	/^           sodipodi:nodetypes="cc" \/>$/;"	i
+path4508-1-7	_site/images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path4508-1-7	images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path4508-9	_site/images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path4508-9	images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path451	_site/images/brind-2021.svg	/^       id="path451" \/>$/;"	i
+path451	images/brind-2021.svg	/^       id="path451" \/>$/;"	i
+path4510	_site/images/brind-2020.svg	/^           sodipodi:nodetypes="cc" \/>$/;"	i
+path4510	images/brind-2020.svg	/^           sodipodi:nodetypes="cc" \/>$/;"	i
+path4510-1	_site/images/brind-2020.svg	/^           sodipodi:nodetypes="cc" \/>$/;"	i
+path4510-1	images/brind-2020.svg	/^           sodipodi:nodetypes="cc" \/>$/;"	i
+path4510-1-9	_site/images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path4510-1-9	images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path4510-12	_site/images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path4510-12	images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path4510-7	_site/images/brind-2020.svg	/^           sodipodi:nodetypes="cc" \/>$/;"	i
+path4510-7	images/brind-2020.svg	/^           sodipodi:nodetypes="cc" \/>$/;"	i
+path4510-7-0	_site/images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path4510-7-0	images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path4522	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4522	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path453	_site/images/brind-2021.svg	/^       id="path453" \/>$/;"	i
+path453	images/brind-2021.svg	/^       id="path453" \/>$/;"	i
+path4531	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4531	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4531-6	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4531-6	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4546	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4546	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path455	_site/images/brind-2021.svg	/^       id="path455" \/>$/;"	i
+path455	images/brind-2021.svg	/^       id="path455" \/>$/;"	i
+path457	_site/images/brind-2021.svg	/^       id="path457" \/>$/;"	i
+path457	images/brind-2021.svg	/^       id="path457" \/>$/;"	i
+path459	_site/images/brind-2021.svg	/^       id="path459" \/>$/;"	i
+path459	images/brind-2021.svg	/^       id="path459" \/>$/;"	i
+path461	_site/images/brind-2021.svg	/^       id="path461" \/>$/;"	i
+path461	images/brind-2021.svg	/^       id="path461" \/>$/;"	i
+path463	_site/images/brind-2021.svg	/^       id="path463" \/>$/;"	i
+path463	images/brind-2021.svg	/^       id="path463" \/>$/;"	i
+path465	_site/images/brind-2021.svg	/^       id="path465" \/>$/;"	i
+path465	images/brind-2021.svg	/^       id="path465" \/>$/;"	i
+path467	_site/images/brind-2021.svg	/^       id="path467" \/>$/;"	i
+path467	images/brind-2021.svg	/^       id="path467" \/>$/;"	i
+path4681	_site/images/brind-2020.svg	/^         transform="scale(-0.2)" \/>$/;"	i
+path4681	images/brind-2020.svg	/^         transform="scale(-0.2)" \/>$/;"	i
+path4681-2	_site/images/brind-2020.svg	/^         transform="scale(-0.2)" \/>$/;"	i
+path4681-2	images/brind-2020.svg	/^         transform="scale(-0.2)" \/>$/;"	i
+path469	_site/images/brind-2021.svg	/^       id="path469" \/>$/;"	i
+path469	images/brind-2021.svg	/^       id="path469" \/>$/;"	i
+path4690	_site/images/brind-2020.svg	/^         transform="scale(0.2)" \/>$/;"	i
+path4690	images/brind-2020.svg	/^         transform="scale(0.2)" \/>$/;"	i
+path47	_site/images/Whittle_Lab_Logo_Black.svg	/^         id="path47" \/>$/;"	i
+path47	images/Whittle_Lab_Logo_Black.svg	/^         id="path47" \/>$/;"	i
+path471	_site/images/brind-2021.svg	/^       id="path471" \/>$/;"	i
+path471	images/brind-2021.svg	/^       id="path471" \/>$/;"	i
+path473	_site/images/brind-2021.svg	/^       id="path473" \/>$/;"	i
+path473	images/brind-2021.svg	/^       id="path473" \/>$/;"	i
+path475	_site/images/brind-2021.svg	/^       id="path475" \/>$/;"	i
+path475	images/brind-2021.svg	/^       id="path475" \/>$/;"	i
+path477	_site/images/brind-2021.svg	/^       id="path477" \/>$/;"	i
+path477	images/brind-2021.svg	/^       id="path477" \/>$/;"	i
+path479	_site/images/brind-2021.svg	/^       id="path479" \/>$/;"	i
+path479	images/brind-2021.svg	/^       id="path479" \/>$/;"	i
+path481	_site/images/brind-2021.svg	/^       id="path481" \/>$/;"	i
+path481	images/brind-2021.svg	/^       id="path481" \/>$/;"	i
+path4822	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4822	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4822-5	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4822-5	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4822-8	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4822-8	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path483	_site/images/brind-2021.svg	/^       id="path483" \/>$/;"	i
+path483	images/brind-2021.svg	/^       id="path483" \/>$/;"	i
+path4831	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4831	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4831-5	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4831-5	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4831-7	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path4831-7	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path485	_site/images/brind-2021.svg	/^       id="path485" \/>$/;"	i
+path485	images/brind-2021.svg	/^       id="path485" \/>$/;"	i
+path487	_site/images/brind-2021.svg	/^       id="path487" \/>$/;"	i
+path487	images/brind-2021.svg	/^       id="path487" \/>$/;"	i
+path489	_site/images/brind-2021.svg	/^       id="path489" \/>$/;"	i
+path489	images/brind-2021.svg	/^       id="path489" \/>$/;"	i
+path49	_site/images/brind-2021.svg	/^         id="path49" \/>$/;"	i
+path49	images/brind-2021.svg	/^         id="path49" \/>$/;"	i
+path491	_site/images/brind-2021.svg	/^       id="path491" \/>$/;"	i
+path491	images/brind-2021.svg	/^       id="path491" \/>$/;"	i
+path493	_site/images/brind-2021.svg	/^       id="path493" \/>$/;"	i
+path493	images/brind-2021.svg	/^       id="path493" \/>$/;"	i
+path495	_site/images/brind-2021.svg	/^       id="path495" \/>$/;"	i
+path495	images/brind-2021.svg	/^       id="path495" \/>$/;"	i
+path497	_site/images/brind-2021.svg	/^       id="path497" \/>$/;"	i
+path497	images/brind-2021.svg	/^       id="path497" \/>$/;"	i
+path499	_site/images/brind-2021.svg	/^       id="path499" \/>$/;"	i
+path499	images/brind-2021.svg	/^       id="path499" \/>$/;"	i
+path5	_site/images/Whittle_Lab_Logo_Black.svg	/^         id="path5" \/>$/;"	i
+path5	images/Whittle_Lab_Logo_Black.svg	/^         id="path5" \/>$/;"	i
+path501	_site/images/brind-2021.svg	/^       id="path501" \/>$/;"	i
+path501	images/brind-2021.svg	/^       id="path501" \/>$/;"	i
+path503	_site/images/brind-2021.svg	/^       id="path503" \/>$/;"	i
+path503	images/brind-2021.svg	/^       id="path503" \/>$/;"	i
+path505	_site/images/brind-2021.svg	/^       id="path505" \/>$/;"	i
+path505	images/brind-2021.svg	/^       id="path505" \/>$/;"	i
+path507	_site/images/brind-2021.svg	/^       id="path507" \/>$/;"	i
+path507	images/brind-2021.svg	/^       id="path507" \/>$/;"	i
+path509	_site/images/brind-2021.svg	/^       id="path509" \/>$/;"	i
+path509	images/brind-2021.svg	/^       id="path509" \/>$/;"	i
+path51	_site/images/Whittle_Lab_Logo_Black.svg	/^       id="path51" \/>$/;"	i
+path51	images/Whittle_Lab_Logo_Black.svg	/^       id="path51" \/>$/;"	i
+path511	_site/images/brind-2021.svg	/^       id="path511" \/>$/;"	i
+path511	images/brind-2021.svg	/^       id="path511" \/>$/;"	i
+path513	_site/images/brind-2021.svg	/^       id="path513" \/>$/;"	i
+path513	images/brind-2021.svg	/^       id="path513" \/>$/;"	i
+path515	_site/images/brind-2021.svg	/^       id="path515" \/>$/;"	i
+path515	images/brind-2021.svg	/^       id="path515" \/>$/;"	i
+path517	_site/images/brind-2021.svg	/^       id="path517" \/>$/;"	i
+path517	images/brind-2021.svg	/^       id="path517" \/>$/;"	i
+path519	_site/images/brind-2021.svg	/^       id="path519" \/>$/;"	i
+path519	images/brind-2021.svg	/^       id="path519" \/>$/;"	i
+path521	_site/images/brind-2021.svg	/^       id="path521" \/>$/;"	i
+path521	images/brind-2021.svg	/^       id="path521" \/>$/;"	i
+path523	_site/images/brind-2021.svg	/^       id="path523" \/>$/;"	i
+path523	images/brind-2021.svg	/^       id="path523" \/>$/;"	i
+path525	_site/images/brind-2021.svg	/^       id="path525" \/>$/;"	i
+path525	images/brind-2021.svg	/^       id="path525" \/>$/;"	i
+path527	_site/images/brind-2021.svg	/^       id="path527" \/>$/;"	i
+path527	images/brind-2021.svg	/^       id="path527" \/>$/;"	i
+path529	_site/images/brind-2021.svg	/^       id="path529" \/>$/;"	i
+path529	images/brind-2021.svg	/^       id="path529" \/>$/;"	i
+path53	_site/images/Whittle_Lab_Logo_Black.svg	/^         id="path53" \/>$/;"	i
+path53	images/Whittle_Lab_Logo_Black.svg	/^         id="path53" \/>$/;"	i
+path531	_site/images/brind-2021.svg	/^       id="path531" \/>$/;"	i
+path531	images/brind-2021.svg	/^       id="path531" \/>$/;"	i
+path533	_site/images/brind-2021.svg	/^       id="path533" \/>$/;"	i
+path533	images/brind-2021.svg	/^       id="path533" \/>$/;"	i
+path535	_site/images/brind-2021.svg	/^       id="path535" \/>$/;"	i
+path535	images/brind-2021.svg	/^       id="path535" \/>$/;"	i
+path537	_site/images/brind-2021.svg	/^       id="path537" \/>$/;"	i
+path537	images/brind-2021.svg	/^       id="path537" \/>$/;"	i
+path539	_site/images/brind-2021.svg	/^       id="path539" \/>$/;"	i
+path539	images/brind-2021.svg	/^       id="path539" \/>$/;"	i
+path541	_site/images/brind-2021.svg	/^       id="path541" \/>$/;"	i
+path541	images/brind-2021.svg	/^       id="path541" \/>$/;"	i
+path543	_site/images/brind-2021.svg	/^       id="path543" \/>$/;"	i
+path543	images/brind-2021.svg	/^       id="path543" \/>$/;"	i
+path545	_site/images/brind-2021.svg	/^       id="path545" \/>$/;"	i
+path545	images/brind-2021.svg	/^       id="path545" \/>$/;"	i
+path547	_site/images/brind-2021.svg	/^       id="path547" \/>$/;"	i
+path547	images/brind-2021.svg	/^       id="path547" \/>$/;"	i
+path549	_site/images/brind-2021.svg	/^       id="path549" \/>$/;"	i
+path549	images/brind-2021.svg	/^       id="path549" \/>$/;"	i
+path551	_site/images/brind-2021.svg	/^       id="path551" \/>$/;"	i
+path551	images/brind-2021.svg	/^       id="path551" \/>$/;"	i
+path553	_site/images/brind-2021.svg	/^       id="path553" \/>$/;"	i
+path553	images/brind-2021.svg	/^       id="path553" \/>$/;"	i
+path5536	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5536	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5536-8	_site/images/brind-2020.svg	/^           id="path5536-8" \/>$/;"	i
+path5536-8	images/brind-2020.svg	/^           id="path5536-8" \/>$/;"	i
+path5539	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5539	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5539-9	_site/images/brind-2020.svg	/^           id="path5539-9" \/>$/;"	i
+path5539-9	images/brind-2020.svg	/^           id="path5539-9" \/>$/;"	i
+path5542	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5542	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5542-0	_site/images/brind-2020.svg	/^           id="path5542-0" \/>$/;"	i
+path5542-0	images/brind-2020.svg	/^           id="path5542-0" \/>$/;"	i
+path5545	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5545	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5545-3	_site/images/brind-2020.svg	/^           id="path5545-3" \/>$/;"	i
+path5545-3	images/brind-2020.svg	/^           id="path5545-3" \/>$/;"	i
+path555	_site/images/brind-2021.svg	/^       id="path555" \/>$/;"	i
+path555	images/brind-2021.svg	/^       id="path555" \/>$/;"	i
+path5562	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5562	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5562-6	_site/images/brind-2020.svg	/^           id="path5562-6" \/>$/;"	i
+path5562-6	images/brind-2020.svg	/^           id="path5562-6" \/>$/;"	i
+path5565	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5565	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5565-2	_site/images/brind-2020.svg	/^           id="path5565-2" \/>$/;"	i
+path5565-2	images/brind-2020.svg	/^           id="path5565-2" \/>$/;"	i
+path5568	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5568	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5568-3	_site/images/brind-2020.svg	/^           id="path5568-3" \/>$/;"	i
+path5568-3	images/brind-2020.svg	/^           id="path5568-3" \/>$/;"	i
+path557	_site/images/brind-2021.svg	/^       id="path557" \/>$/;"	i
+path557	images/brind-2021.svg	/^       id="path557" \/>$/;"	i
+path559	_site/images/brind-2021.svg	/^       id="path559" \/>$/;"	i
+path559	images/brind-2021.svg	/^       id="path559" \/>$/;"	i
+path561	_site/images/brind-2021.svg	/^       id="path561" \/>$/;"	i
+path561	images/brind-2021.svg	/^       id="path561" \/>$/;"	i
+path563	_site/images/brind-2021.svg	/^       id="path563" \/>$/;"	i
+path563	images/brind-2021.svg	/^       id="path563" \/>$/;"	i
+path565	_site/images/brind-2021.svg	/^       id="path565" \/>$/;"	i
+path565	images/brind-2021.svg	/^       id="path565" \/>$/;"	i
+path567	_site/images/brind-2021.svg	/^       id="path567" \/>$/;"	i
+path567	images/brind-2021.svg	/^       id="path567" \/>$/;"	i
+path569	_site/images/brind-2021.svg	/^       id="path569" \/>$/;"	i
+path569	images/brind-2021.svg	/^       id="path569" \/>$/;"	i
+path5695	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5695	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5695-6	_site/images/brind-2020.svg	/^           id="path5695-6" \/>$/;"	i
+path5695-6	images/brind-2020.svg	/^           id="path5695-6" \/>$/;"	i
+path5698	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5698	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5698-0	_site/images/brind-2020.svg	/^           id="path5698-0" \/>$/;"	i
+path5698-0	images/brind-2020.svg	/^           id="path5698-0" \/>$/;"	i
+path5701	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5701	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5701-3	_site/images/brind-2020.svg	/^           id="path5701-3" \/>$/;"	i
+path5701-3	images/brind-2020.svg	/^           id="path5701-3" \/>$/;"	i
+path5704	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5704	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5704-0	_site/images/brind-2020.svg	/^           id="path5704-0" \/>$/;"	i
+path5704-0	images/brind-2020.svg	/^           id="path5704-0" \/>$/;"	i
+path5707	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5707	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5707-1	_site/images/brind-2020.svg	/^           id="path5707-1" \/>$/;"	i
+path5707-1	images/brind-2020.svg	/^           id="path5707-1" \/>$/;"	i
+path571	_site/images/brind-2021.svg	/^       id="path571" \/>$/;"	i
+path571	images/brind-2021.svg	/^       id="path571" \/>$/;"	i
+path5710	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5710	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5710-5	_site/images/brind-2020.svg	/^           id="path5710-5" \/>$/;"	i
+path5710-5	images/brind-2020.svg	/^           id="path5710-5" \/>$/;"	i
+path5713	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5713	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5713-7	_site/images/brind-2020.svg	/^           id="path5713-7" \/>$/;"	i
+path5713-7	images/brind-2020.svg	/^           id="path5713-7" \/>$/;"	i
+path573	_site/images/brind-2021.svg	/^       id="path573" \/>$/;"	i
+path573	images/brind-2021.svg	/^       id="path573" \/>$/;"	i
+path5736	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5736	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5736-4	_site/images/brind-2020.svg	/^           id="path5736-4" \/>$/;"	i
+path5736-4	images/brind-2020.svg	/^           id="path5736-4" \/>$/;"	i
+path5739	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5739	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5739-3	_site/images/brind-2020.svg	/^           id="path5739-3" \/>$/;"	i
+path5739-3	images/brind-2020.svg	/^           id="path5739-3" \/>$/;"	i
+path5742	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5742	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5742-7	_site/images/brind-2020.svg	/^           id="path5742-7" \/>$/;"	i
+path5742-7	images/brind-2020.svg	/^           id="path5742-7" \/>$/;"	i
+path5745	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5745	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5745-6	_site/images/brind-2020.svg	/^           id="path5745-6" \/>$/;"	i
+path5745-6	images/brind-2020.svg	/^           id="path5745-6" \/>$/;"	i
+path5748	_site/images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5748	images/brind-2020.svg	/^                   inkscape:connector-curvature="0" \/>$/;"	i
+path5748-8	_site/images/brind-2020.svg	/^           id="path5748-8" \/>$/;"	i
+path5748-8	images/brind-2020.svg	/^           id="path5748-8" \/>$/;"	i
+path575	_site/images/brind-2021.svg	/^       id="path575" \/>$/;"	i
+path575	images/brind-2021.svg	/^       id="path575" \/>$/;"	i
+path577	_site/images/brind-2021.svg	/^       id="path577" \/>$/;"	i
+path577	images/brind-2021.svg	/^       id="path577" \/>$/;"	i
+path579	_site/images/brind-2021.svg	/^       id="path579" \/>$/;"	i
+path579	images/brind-2021.svg	/^       id="path579" \/>$/;"	i
+path581	_site/images/brind-2021.svg	/^       id="path581" \/>$/;"	i
+path581	images/brind-2021.svg	/^       id="path581" \/>$/;"	i
+path583	_site/images/brind-2021.svg	/^       id="path583" \/>$/;"	i
+path583	images/brind-2021.svg	/^       id="path583" \/>$/;"	i
+path585	_site/images/brind-2021.svg	/^       id="path585" \/>$/;"	i
+path585	images/brind-2021.svg	/^       id="path585" \/>$/;"	i
+path587	_site/images/brind-2021.svg	/^       id="path587" \/>$/;"	i
+path587	images/brind-2021.svg	/^       id="path587" \/>$/;"	i
+path589	_site/images/brind-2021.svg	/^       id="path589" \/>$/;"	i
+path589	images/brind-2021.svg	/^       id="path589" \/>$/;"	i
+path5903	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path5903	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path5903-4	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path5903-4	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path5904-1	_site/images/brind-2020.svg	/^                 id="path5904-1" \/>$/;"	i
+path5904-1	images/brind-2020.svg	/^                 id="path5904-1" \/>$/;"	i
+path5907-2	_site/images/brind-2020.svg	/^                 id="path5907-2" \/>$/;"	i
+path5907-2	images/brind-2020.svg	/^                 id="path5907-2" \/>$/;"	i
+path591	_site/images/brind-2021.svg	/^       id="path591" \/>$/;"	i
+path591	images/brind-2021.svg	/^       id="path591" \/>$/;"	i
+path5910-6	_site/images/brind-2020.svg	/^                 id="path5910-6" \/>$/;"	i
+path5910-6	images/brind-2020.svg	/^                 id="path5910-6" \/>$/;"	i
+path5913-1	_site/images/brind-2020.svg	/^                 id="path5913-1" \/>$/;"	i
+path5913-1	images/brind-2020.svg	/^                 id="path5913-1" \/>$/;"	i
+path5916-1	_site/images/brind-2020.svg	/^                 id="path5916-1" \/>$/;"	i
+path5916-1	images/brind-2020.svg	/^                 id="path5916-1" \/>$/;"	i
+path5919-1	_site/images/brind-2020.svg	/^                 id="path5919-1" \/>$/;"	i
+path5919-1	images/brind-2020.svg	/^                 id="path5919-1" \/>$/;"	i
+path5922-0	_site/images/brind-2020.svg	/^                 id="path5922-0" \/>$/;"	i
+path5922-0	images/brind-2020.svg	/^                 id="path5922-0" \/>$/;"	i
+path593	_site/images/brind-2021.svg	/^       id="path593" \/>$/;"	i
+path593	images/brind-2021.svg	/^       id="path593" \/>$/;"	i
+path595	_site/images/brind-2021.svg	/^       id="path595" \/>$/;"	i
+path595	images/brind-2021.svg	/^       id="path595" \/>$/;"	i
+path597	_site/images/brind-2021.svg	/^       id="path597" \/>$/;"	i
+path597	images/brind-2021.svg	/^       id="path597" \/>$/;"	i
+path599	_site/images/brind-2021.svg	/^       id="path599" \/>$/;"	i
+path599	images/brind-2021.svg	/^       id="path599" \/>$/;"	i
+path60	_site/images/brind-2021.svg	/^         id="path60" \/>$/;"	i
+path60	images/brind-2021.svg	/^         id="path60" \/>$/;"	i
+path601	_site/images/brind-2021.svg	/^       id="path601" \/>$/;"	i
+path601	images/brind-2021.svg	/^       id="path601" \/>$/;"	i
+path603	_site/images/brind-2021.svg	/^       id="path603" \/>$/;"	i
+path603	images/brind-2021.svg	/^       id="path603" \/>$/;"	i
+path605	_site/images/brind-2021.svg	/^       id="path605" \/>$/;"	i
+path605	images/brind-2021.svg	/^       id="path605" \/>$/;"	i
+path607	_site/images/brind-2021.svg	/^       id="path607" \/>$/;"	i
+path607	images/brind-2021.svg	/^       id="path607" \/>$/;"	i
+path609	_site/images/brind-2021.svg	/^       id="path609" \/>$/;"	i
+path609	images/brind-2021.svg	/^       id="path609" \/>$/;"	i
+path611	_site/images/brind-2021.svg	/^       id="path611" \/>$/;"	i
+path611	images/brind-2021.svg	/^       id="path611" \/>$/;"	i
+path613	_site/images/brind-2021.svg	/^       id="path613" \/>$/;"	i
+path613	images/brind-2021.svg	/^       id="path613" \/>$/;"	i
+path615	_site/images/brind-2021.svg	/^       id="path615" \/>$/;"	i
+path615	images/brind-2021.svg	/^       id="path615" \/>$/;"	i
+path6168	_site/images/brind-2020.svg	/^           r="3.8991125" \/>$/;"	i
+path6168	images/brind-2020.svg	/^           r="3.8991125" \/>$/;"	i
+path6168-0	_site/images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path6168-0	images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path6168-8	_site/images/brind-2020.svg	/^           ry="3.8991132" \/>$/;"	i
+path6168-8	images/brind-2020.svg	/^           ry="3.8991132" \/>$/;"	i
+path6168-8-3	_site/images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path6168-8-3	images/brind-2020.svg	/^         transform="translate(0,-854.36212)" \/>$/;"	i
+path617	_site/images/brind-2021.svg	/^       id="path617" \/>$/;"	i
+path617	images/brind-2021.svg	/^       id="path617" \/>$/;"	i
+path619	_site/images/brind-2021.svg	/^       id="path619" \/>$/;"	i
+path619	images/brind-2021.svg	/^       id="path619" \/>$/;"	i
+path621	_site/images/brind-2021.svg	/^       id="path621" \/>$/;"	i
+path621	images/brind-2021.svg	/^       id="path621" \/>$/;"	i
+path623	_site/images/brind-2021.svg	/^       id="path623" \/>$/;"	i
+path623	images/brind-2021.svg	/^       id="path623" \/>$/;"	i
+path625	_site/images/brind-2021.svg	/^       id="path625" \/>$/;"	i
+path625	images/brind-2021.svg	/^       id="path625" \/>$/;"	i
+path627	_site/images/brind-2021.svg	/^       id="path627" \/>$/;"	i
+path627	images/brind-2021.svg	/^       id="path627" \/>$/;"	i
+path629	_site/images/brind-2021.svg	/^       id="path629" \/>$/;"	i
+path629	images/brind-2021.svg	/^       id="path629" \/>$/;"	i
+path631	_site/images/brind-2021.svg	/^       id="path631" \/>$/;"	i
+path631	images/brind-2021.svg	/^       id="path631" \/>$/;"	i
+path633	_site/images/brind-2021.svg	/^       id="path633" \/>$/;"	i
+path633	images/brind-2021.svg	/^       id="path633" \/>$/;"	i
+path635	_site/images/brind-2021.svg	/^       id="path635" \/>$/;"	i
+path635	images/brind-2021.svg	/^       id="path635" \/>$/;"	i
+path637	_site/images/brind-2021.svg	/^       id="path637" \/>$/;"	i
+path637	images/brind-2021.svg	/^       id="path637" \/>$/;"	i
+path639	_site/images/brind-2021.svg	/^       id="path639" \/>$/;"	i
+path639	images/brind-2021.svg	/^       id="path639" \/>$/;"	i
+path641	_site/images/brind-2021.svg	/^       id="path641" \/>$/;"	i
+path641	images/brind-2021.svg	/^       id="path641" \/>$/;"	i
+path643	_site/images/brind-2021.svg	/^       id="path643" \/>$/;"	i
+path643	images/brind-2021.svg	/^       id="path643" \/>$/;"	i
+path645	_site/images/brind-2021.svg	/^       id="path645" \/>$/;"	i
+path645	images/brind-2021.svg	/^       id="path645" \/>$/;"	i
+path647	_site/images/brind-2021.svg	/^       id="path647" \/>$/;"	i
+path647	images/brind-2021.svg	/^       id="path647" \/>$/;"	i
+path649	_site/images/brind-2021.svg	/^       id="path649" \/>$/;"	i
+path649	images/brind-2021.svg	/^       id="path649" \/>$/;"	i
+path651	_site/images/brind-2021.svg	/^       id="path651" \/>$/;"	i
+path651	images/brind-2021.svg	/^       id="path651" \/>$/;"	i
+path653	_site/images/brind-2021.svg	/^       id="path653" \/>$/;"	i
+path653	images/brind-2021.svg	/^       id="path653" \/>$/;"	i
+path655	_site/images/brind-2021.svg	/^       id="path655" \/>$/;"	i
+path655	images/brind-2021.svg	/^       id="path655" \/>$/;"	i
+path657	_site/images/brind-2021.svg	/^       id="path657" \/>$/;"	i
+path657	images/brind-2021.svg	/^       id="path657" \/>$/;"	i
+path659	_site/images/brind-2021.svg	/^       id="path659" \/>$/;"	i
+path659	images/brind-2021.svg	/^       id="path659" \/>$/;"	i
+path661	_site/images/brind-2021.svg	/^       id="path661" \/>$/;"	i
+path661	images/brind-2021.svg	/^       id="path661" \/>$/;"	i
+path663	_site/images/brind-2021.svg	/^       id="path663" \/>$/;"	i
+path663	images/brind-2021.svg	/^       id="path663" \/>$/;"	i
+path665	_site/images/brind-2021.svg	/^       id="path665" \/>$/;"	i
+path665	images/brind-2021.svg	/^       id="path665" \/>$/;"	i
+path667	_site/images/brind-2021.svg	/^       id="path667" \/>$/;"	i
+path667	images/brind-2021.svg	/^       id="path667" \/>$/;"	i
+path6679	_site/images/brind-2020.svg	/^                 id="path6679" \/>$/;"	i
+path6679	images/brind-2020.svg	/^                 id="path6679" \/>$/;"	i
+path6683	_site/images/brind-2020.svg	/^                 id="path6683" \/>$/;"	i
+path6683	images/brind-2020.svg	/^                 id="path6683" \/>$/;"	i
+path6687	_site/images/brind-2020.svg	/^                 id="path6687" \/>$/;"	i
+path6687	images/brind-2020.svg	/^                 id="path6687" \/>$/;"	i
+path669	_site/images/brind-2021.svg	/^       id="path669" \/>$/;"	i
+path669	images/brind-2021.svg	/^       id="path669" \/>$/;"	i
+path6691	_site/images/brind-2020.svg	/^                 id="path6691" \/>$/;"	i
+path6691	images/brind-2020.svg	/^                 id="path6691" \/>$/;"	i
+path6704	_site/images/brind-2020.svg	/^                 id="path6704" \/>$/;"	i
+path6704	images/brind-2020.svg	/^                 id="path6704" \/>$/;"	i
+path6708	_site/images/brind-2020.svg	/^                 id="path6708" \/>$/;"	i
+path6708	images/brind-2020.svg	/^                 id="path6708" \/>$/;"	i
+path671	_site/images/brind-2021.svg	/^       id="path671" \/>$/;"	i
+path671	images/brind-2021.svg	/^       id="path671" \/>$/;"	i
+path6712	_site/images/brind-2020.svg	/^                 id="path6712" \/>$/;"	i
+path6712	images/brind-2020.svg	/^                 id="path6712" \/>$/;"	i
+path6725	_site/images/brind-2020.svg	/^                 id="path6725" \/>$/;"	i
+path6725	images/brind-2020.svg	/^                 id="path6725" \/>$/;"	i
+path6729	_site/images/brind-2020.svg	/^                 id="path6729" \/>$/;"	i
+path6729	images/brind-2020.svg	/^                 id="path6729" \/>$/;"	i
+path673	_site/images/brind-2021.svg	/^       id="path673" \/>$/;"	i
+path673	images/brind-2021.svg	/^       id="path673" \/>$/;"	i
+path6733	_site/images/brind-2020.svg	/^                 id="path6733" \/>$/;"	i
+path6733	images/brind-2020.svg	/^                 id="path6733" \/>$/;"	i
+path6737	_site/images/brind-2020.svg	/^                 id="path6737" \/>$/;"	i
+path6737	images/brind-2020.svg	/^                 id="path6737" \/>$/;"	i
+path6741	_site/images/brind-2020.svg	/^                 id="path6741" \/>$/;"	i
+path6741	images/brind-2020.svg	/^                 id="path6741" \/>$/;"	i
+path6745	_site/images/brind-2020.svg	/^                 id="path6745" \/>$/;"	i
+path6745	images/brind-2020.svg	/^                 id="path6745" \/>$/;"	i
+path6749	_site/images/brind-2020.svg	/^                 id="path6749" \/>$/;"	i
+path6749	images/brind-2020.svg	/^                 id="path6749" \/>$/;"	i
+path675	_site/images/brind-2021.svg	/^       id="path675" \/>$/;"	i
+path675	images/brind-2021.svg	/^       id="path675" \/>$/;"	i
+path6765	_site/images/brind-2020.svg	/^                 id="path6765" \/>$/;"	i
+path6765	images/brind-2020.svg	/^                 id="path6765" \/>$/;"	i
+path6769	_site/images/brind-2020.svg	/^                 id="path6769" \/>$/;"	i
+path6769	images/brind-2020.svg	/^                 id="path6769" \/>$/;"	i
+path677	_site/images/brind-2021.svg	/^       id="path677" \/>$/;"	i
+path677	images/brind-2021.svg	/^       id="path677" \/>$/;"	i
+path6773	_site/images/brind-2020.svg	/^                 id="path6773" \/>$/;"	i
+path6773	images/brind-2020.svg	/^                 id="path6773" \/>$/;"	i
+path6777	_site/images/brind-2020.svg	/^                 id="path6777" \/>$/;"	i
+path6777	images/brind-2020.svg	/^                 id="path6777" \/>$/;"	i
+path6781	_site/images/brind-2020.svg	/^                 id="path6781" \/>$/;"	i
+path6781	images/brind-2020.svg	/^                 id="path6781" \/>$/;"	i
+path679	_site/images/brind-2021.svg	/^       id="path679" \/>$/;"	i
+path679	images/brind-2021.svg	/^       id="path679" \/>$/;"	i
+path681	_site/images/brind-2021.svg	/^       id="path681" \/>$/;"	i
+path681	images/brind-2021.svg	/^       id="path681" \/>$/;"	i
+path683	_site/images/brind-2021.svg	/^       id="path683" \/>$/;"	i
+path683	images/brind-2021.svg	/^       id="path683" \/>$/;"	i
+path685	_site/images/brind-2021.svg	/^       id="path685" \/>$/;"	i
+path685	images/brind-2021.svg	/^       id="path685" \/>$/;"	i
+path687	_site/images/brind-2021.svg	/^       id="path687" \/>$/;"	i
+path687	images/brind-2021.svg	/^       id="path687" \/>$/;"	i
+path689	_site/images/brind-2021.svg	/^       id="path689" \/>$/;"	i
+path689	images/brind-2021.svg	/^       id="path689" \/>$/;"	i
+path6903	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path6903	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path691	_site/images/brind-2021.svg	/^       id="path691" \/>$/;"	i
+path691	images/brind-2021.svg	/^       id="path691" \/>$/;"	i
+path693	_site/images/brind-2021.svg	/^       id="path693" \/>$/;"	i
+path693	images/brind-2021.svg	/^       id="path693" \/>$/;"	i
+path695	_site/images/brind-2021.svg	/^       id="path695" \/>$/;"	i
+path695	images/brind-2021.svg	/^       id="path695" \/>$/;"	i
+path697	_site/images/brind-2021.svg	/^       id="path697" \/>$/;"	i
+path697	images/brind-2021.svg	/^       id="path697" \/>$/;"	i
+path699	_site/images/brind-2021.svg	/^       id="path699" \/>$/;"	i
+path699	images/brind-2021.svg	/^       id="path699" \/>$/;"	i
+path701	_site/images/brind-2021.svg	/^       id="path701" \/>$/;"	i
+path701	images/brind-2021.svg	/^       id="path701" \/>$/;"	i
+path703	_site/images/brind-2021.svg	/^       id="path703" \/>$/;"	i
+path703	images/brind-2021.svg	/^       id="path703" \/>$/;"	i
+path705	_site/images/brind-2021.svg	/^       id="path705" \/>$/;"	i
+path705	images/brind-2021.svg	/^       id="path705" \/>$/;"	i
+path707	_site/images/brind-2021.svg	/^       id="path707" \/>$/;"	i
+path707	images/brind-2021.svg	/^       id="path707" \/>$/;"	i
+path709	_site/images/brind-2021.svg	/^       id="path709" \/>$/;"	i
+path709	images/brind-2021.svg	/^       id="path709" \/>$/;"	i
+path71	_site/images/brind-2021.svg	/^         id="path71" \/>$/;"	i
+path71	images/brind-2021.svg	/^         id="path71" \/>$/;"	i
+path711	_site/images/brind-2021.svg	/^       id="path711" \/>$/;"	i
+path711	images/brind-2021.svg	/^       id="path711" \/>$/;"	i
+path713	_site/images/brind-2021.svg	/^       id="path713" \/>$/;"	i
+path713	images/brind-2021.svg	/^       id="path713" \/>$/;"	i
+path715	_site/images/brind-2021.svg	/^       id="path715" \/>$/;"	i
+path715	images/brind-2021.svg	/^       id="path715" \/>$/;"	i
+path717	_site/images/brind-2021.svg	/^       id="path717" \/>$/;"	i
+path717	images/brind-2021.svg	/^       id="path717" \/>$/;"	i
+path719	_site/images/brind-2021.svg	/^       id="path719" \/>$/;"	i
+path719	images/brind-2021.svg	/^       id="path719" \/>$/;"	i
+path721	_site/images/brind-2021.svg	/^       id="path721" \/>$/;"	i
+path721	images/brind-2021.svg	/^       id="path721" \/>$/;"	i
+path723	_site/images/brind-2021.svg	/^       id="path723" \/>$/;"	i
+path723	images/brind-2021.svg	/^       id="path723" \/>$/;"	i
+path725	_site/images/brind-2021.svg	/^       id="path725" \/>$/;"	i
+path725	images/brind-2021.svg	/^       id="path725" \/>$/;"	i
+path727	_site/images/brind-2021.svg	/^       id="path727" \/>$/;"	i
+path727	images/brind-2021.svg	/^       id="path727" \/>$/;"	i
+path729	_site/images/brind-2021.svg	/^       id="path729" \/>$/;"	i
+path729	images/brind-2021.svg	/^       id="path729" \/>$/;"	i
+path731	_site/images/brind-2021.svg	/^       id="path731" \/>$/;"	i
+path731	images/brind-2021.svg	/^       id="path731" \/>$/;"	i
+path733	_site/images/brind-2021.svg	/^       id="path733" \/>$/;"	i
+path733	images/brind-2021.svg	/^       id="path733" \/>$/;"	i
+path735	_site/images/brind-2021.svg	/^       id="path735" \/>$/;"	i
+path735	images/brind-2021.svg	/^       id="path735" \/>$/;"	i
+path737	_site/images/brind-2021.svg	/^       id="path737" \/>$/;"	i
+path737	images/brind-2021.svg	/^       id="path737" \/>$/;"	i
+path739	_site/images/brind-2021.svg	/^       id="path739" \/>$/;"	i
+path739	images/brind-2021.svg	/^       id="path739" \/>$/;"	i
+path74	_site/images/brind-2021.svg	/^         id="path74" \/>$/;"	i
+path74	images/brind-2021.svg	/^         id="path74" \/>$/;"	i
+path741	_site/images/brind-2021.svg	/^       id="path741" \/>$/;"	i
+path741	images/brind-2021.svg	/^       id="path741" \/>$/;"	i
+path743	_site/images/brind-2021.svg	/^       id="path743" \/>$/;"	i
+path743	images/brind-2021.svg	/^       id="path743" \/>$/;"	i
+path745	_site/images/brind-2021.svg	/^       id="path745" \/>$/;"	i
+path745	images/brind-2021.svg	/^       id="path745" \/>$/;"	i
+path747	_site/images/brind-2021.svg	/^       id="path747" \/>$/;"	i
+path747	images/brind-2021.svg	/^       id="path747" \/>$/;"	i
+path749	_site/images/brind-2021.svg	/^       id="path749" \/>$/;"	i
+path749	images/brind-2021.svg	/^       id="path749" \/>$/;"	i
+path751	_site/images/brind-2021.svg	/^       id="path751" \/>$/;"	i
+path751	images/brind-2021.svg	/^       id="path751" \/>$/;"	i
+path753	_site/images/brind-2021.svg	/^       id="path753" \/>$/;"	i
+path753	images/brind-2021.svg	/^       id="path753" \/>$/;"	i
+path755	_site/images/brind-2021.svg	/^       id="path755" \/>$/;"	i
+path755	images/brind-2021.svg	/^       id="path755" \/>$/;"	i
+path757	_site/images/brind-2021.svg	/^       id="path757" \/>$/;"	i
+path757	images/brind-2021.svg	/^       id="path757" \/>$/;"	i
+path759	_site/images/brind-2021.svg	/^       id="path759" \/>$/;"	i
+path759	images/brind-2021.svg	/^       id="path759" \/>$/;"	i
+path761	_site/images/brind-2021.svg	/^       id="path761" \/>$/;"	i
+path761	images/brind-2021.svg	/^       id="path761" \/>$/;"	i
+path763	_site/images/brind-2021.svg	/^       id="path763" \/>$/;"	i
+path763	images/brind-2021.svg	/^       id="path763" \/>$/;"	i
+path765	_site/images/brind-2021.svg	/^       id="path765" \/>$/;"	i
+path765	images/brind-2021.svg	/^       id="path765" \/>$/;"	i
+path767	_site/images/brind-2021.svg	/^       id="path767" \/>$/;"	i
+path767	images/brind-2021.svg	/^       id="path767" \/>$/;"	i
+path769	_site/images/brind-2021.svg	/^       id="path769" \/>$/;"	i
+path769	images/brind-2021.svg	/^       id="path769" \/>$/;"	i
+path771	_site/images/brind-2021.svg	/^       id="path771" \/>$/;"	i
+path771	images/brind-2021.svg	/^       id="path771" \/>$/;"	i
+path773	_site/images/brind-2021.svg	/^       id="path773" \/>$/;"	i
+path773	images/brind-2021.svg	/^       id="path773" \/>$/;"	i
+path7743	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path7743	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path7747	_site/images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path7747	images/brind-2020.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path775	_site/images/brind-2021.svg	/^       id="path775" \/>$/;"	i
+path775	images/brind-2021.svg	/^       id="path775" \/>$/;"	i
+path777	_site/images/brind-2021.svg	/^       id="path777" \/>$/;"	i
+path777	images/brind-2021.svg	/^       id="path777" \/>$/;"	i
+path779	_site/images/brind-2021.svg	/^       id="path779" \/>$/;"	i
+path779	images/brind-2021.svg	/^       id="path779" \/>$/;"	i
+path781	_site/images/brind-2021.svg	/^       id="path781" \/>$/;"	i
+path781	images/brind-2021.svg	/^       id="path781" \/>$/;"	i
+path783	_site/images/brind-2021.svg	/^       id="path783" \/>$/;"	i
+path783	images/brind-2021.svg	/^       id="path783" \/>$/;"	i
+path785	_site/images/brind-2021.svg	/^       id="path785" \/>$/;"	i
+path785	images/brind-2021.svg	/^       id="path785" \/>$/;"	i
+path787	_site/images/brind-2021.svg	/^       id="path787" \/>$/;"	i
+path787	images/brind-2021.svg	/^       id="path787" \/>$/;"	i
+path789	_site/images/brind-2021.svg	/^       id="path789" \/>$/;"	i
+path789	images/brind-2021.svg	/^       id="path789" \/>$/;"	i
+path791	_site/images/brind-2021.svg	/^       id="path791" \/>$/;"	i
+path791	images/brind-2021.svg	/^       id="path791" \/>$/;"	i
+path793	_site/images/brind-2021.svg	/^       id="path793" \/>$/;"	i
+path793	images/brind-2021.svg	/^       id="path793" \/>$/;"	i
+path795	_site/images/brind-2021.svg	/^       id="path795" \/>$/;"	i
+path795	images/brind-2021.svg	/^       id="path795" \/>$/;"	i
+path797	_site/images/brind-2021.svg	/^       id="path797" \/>$/;"	i
+path797	images/brind-2021.svg	/^       id="path797" \/>$/;"	i
+path799	_site/images/brind-2021.svg	/^       id="path799" \/>$/;"	i
+path799	images/brind-2021.svg	/^       id="path799" \/>$/;"	i
+path8	_site/images/Whittle_Lab_Logo_Black.svg	/^         id="path8" \/>$/;"	i
+path8	images/Whittle_Lab_Logo_Black.svg	/^         id="path8" \/>$/;"	i
+path801	_site/images/brind-2021.svg	/^       id="path801" \/>$/;"	i
+path801	images/brind-2021.svg	/^       id="path801" \/>$/;"	i
+path803	_site/images/brind-2021.svg	/^       id="path803" \/>$/;"	i
+path803	images/brind-2021.svg	/^       id="path803" \/>$/;"	i
+path805	_site/images/brind-2021.svg	/^       id="path805" \/>$/;"	i
+path805	images/brind-2021.svg	/^       id="path805" \/>$/;"	i
+path807	_site/images/brind-2021.svg	/^       id="path807" \/>$/;"	i
+path807	images/brind-2021.svg	/^       id="path807" \/>$/;"	i
+path809	_site/images/brind-2021.svg	/^       id="path809" \/>$/;"	i
+path809	images/brind-2021.svg	/^       id="path809" \/>$/;"	i
+path811	_site/images/brind-2021.svg	/^       id="path811" \/>$/;"	i
+path811	images/brind-2021.svg	/^       id="path811" \/>$/;"	i
+path813	_site/images/brind-2021.svg	/^       id="path813" \/>$/;"	i
+path813	images/brind-2021.svg	/^       id="path813" \/>$/;"	i
+path815	_site/images/brind-2021.svg	/^       id="path815" \/>$/;"	i
+path815	images/brind-2021.svg	/^       id="path815" \/>$/;"	i
+path817	_site/images/brind-2021.svg	/^       id="path817" \/>$/;"	i
+path817	images/brind-2021.svg	/^       id="path817" \/>$/;"	i
+path819	_site/images/brind-2021.svg	/^       id="path819" \/>$/;"	i
+path819	images/brind-2021.svg	/^       id="path819" \/>$/;"	i
+path821	_site/images/brind-2021.svg	/^       id="path821" \/>$/;"	i
+path821	images/brind-2021.svg	/^       id="path821" \/>$/;"	i
+path823	_site/images/brind-2021.svg	/^       id="path823" \/>$/;"	i
+path823	images/brind-2021.svg	/^       id="path823" \/>$/;"	i
+path825	_site/images/brind-2021.svg	/^       id="path825" \/>$/;"	i
+path825	images/brind-2021.svg	/^       id="path825" \/>$/;"	i
+path827	_site/images/brind-2021.svg	/^       id="path827" \/>$/;"	i
+path827	images/brind-2021.svg	/^       id="path827" \/>$/;"	i
+path829	_site/images/brind-2021.svg	/^       id="path829" \/>$/;"	i
+path829	images/brind-2021.svg	/^       id="path829" \/>$/;"	i
+path831	_site/images/brind-2021.svg	/^       id="path831" \/>$/;"	i
+path831	images/brind-2021.svg	/^       id="path831" \/>$/;"	i
+path833	_site/images/brind-2021.svg	/^       id="path833" \/>$/;"	i
+path833	images/brind-2021.svg	/^       id="path833" \/>$/;"	i
+path835	_site/images/brind-2021.svg	/^       id="path835" \/>$/;"	i
+path835	images/brind-2021.svg	/^       id="path835" \/>$/;"	i
+path837	_site/images/brind-2021.svg	/^       id="path837" \/>$/;"	i
+path837	images/brind-2021.svg	/^       id="path837" \/>$/;"	i
+path839	_site/images/brind-2021.svg	/^       id="path839" \/>$/;"	i
+path839	images/brind-2021.svg	/^       id="path839" \/>$/;"	i
+path841	_site/images/brind-2021.svg	/^       id="path841" \/>$/;"	i
+path841	images/brind-2021.svg	/^       id="path841" \/>$/;"	i
+path843	_site/images/brind-2021.svg	/^       id="path843" \/>$/;"	i
+path843	images/brind-2021.svg	/^       id="path843" \/>$/;"	i
+path845	_site/images/brind-2021.svg	/^       id="path845" \/>$/;"	i
+path845	images/brind-2021.svg	/^       id="path845" \/>$/;"	i
+path847	_site/images/brind-2021.svg	/^       id="path847" \/>$/;"	i
+path847	images/brind-2021.svg	/^       id="path847" \/>$/;"	i
+path849	_site/images/brind-2021.svg	/^       id="path849" \/>$/;"	i
+path849	images/brind-2021.svg	/^       id="path849" \/>$/;"	i
+path85	_site/images/brind-2021.svg	/^         id="path85" \/>$/;"	i
+path85	images/brind-2021.svg	/^         id="path85" \/>$/;"	i
+path851	_site/images/brind-2021.svg	/^       id="path851" \/>$/;"	i
+path851	images/brind-2021.svg	/^       id="path851" \/>$/;"	i
+path853	_site/images/brind-2021.svg	/^       id="path853" \/>$/;"	i
+path853	images/brind-2021.svg	/^       id="path853" \/>$/;"	i
+path855	_site/images/brind-2021.svg	/^       id="path855" \/>$/;"	i
+path855	images/brind-2021.svg	/^       id="path855" \/>$/;"	i
+path857	_site/images/brind-2021.svg	/^       id="path857" \/>$/;"	i
+path857	images/brind-2021.svg	/^       id="path857" \/>$/;"	i
+path859	_site/images/brind-2021.svg	/^       id="path859" \/>$/;"	i
+path859	images/brind-2021.svg	/^       id="path859" \/>$/;"	i
+path861	_site/images/brind-2021.svg	/^       id="path861" \/>$/;"	i
+path861	images/brind-2021.svg	/^       id="path861" \/>$/;"	i
+path863	_site/images/brind-2021.svg	/^       id="path863" \/>$/;"	i
+path863	images/brind-2021.svg	/^       id="path863" \/>$/;"	i
+path865	_site/images/brind-2021.svg	/^       id="path865" \/>$/;"	i
+path865	images/brind-2021.svg	/^       id="path865" \/>$/;"	i
+path867	_site/images/brind-2021.svg	/^       id="path867" \/>$/;"	i
+path867	images/brind-2021.svg	/^       id="path867" \/>$/;"	i
+path869	_site/images/brind-2021.svg	/^       id="path869" \/>$/;"	i
+path869	images/brind-2021.svg	/^       id="path869" \/>$/;"	i
+path871	_site/images/brind-2021.svg	/^       id="path871" \/>$/;"	i
+path871	images/brind-2021.svg	/^       id="path871" \/>$/;"	i
+path873	_site/images/brind-2021.svg	/^       id="path873" \/>$/;"	i
+path873	images/brind-2021.svg	/^       id="path873" \/>$/;"	i
+path875	_site/images/brind-2021.svg	/^       id="path875" \/>$/;"	i
+path875	images/brind-2021.svg	/^       id="path875" \/>$/;"	i
+path877	_site/images/brind-2021.svg	/^       id="path877" \/>$/;"	i
+path877	images/brind-2021.svg	/^       id="path877" \/>$/;"	i
+path879	_site/images/brind-2021.svg	/^       id="path879" \/>$/;"	i
+path879	images/brind-2021.svg	/^       id="path879" \/>$/;"	i
+path881	_site/images/brind-2021.svg	/^       id="path881" \/>$/;"	i
+path881	images/brind-2021.svg	/^       id="path881" \/>$/;"	i
+path883	_site/images/brind-2021.svg	/^       id="path883" \/>$/;"	i
+path883	images/brind-2021.svg	/^       id="path883" \/>$/;"	i
+path885	_site/images/brind-2021.svg	/^       id="path885" \/>$/;"	i
+path885	images/brind-2021.svg	/^       id="path885" \/>$/;"	i
+path887	_site/images/brind-2021.svg	/^       id="path887" \/>$/;"	i
+path887	images/brind-2021.svg	/^       id="path887" \/>$/;"	i
+path889	_site/images/brind-2021.svg	/^       id="path889" \/>$/;"	i
+path889	images/brind-2021.svg	/^       id="path889" \/>$/;"	i
+path891	_site/images/brind-2021.svg	/^       id="path891" \/>$/;"	i
+path891	images/brind-2021.svg	/^       id="path891" \/>$/;"	i
+path893	_site/images/brind-2021.svg	/^       id="path893" \/>$/;"	i
+path893	images/brind-2021.svg	/^       id="path893" \/>$/;"	i
+path895	_site/images/brind-2021.svg	/^       id="path895" \/>$/;"	i
+path895	images/brind-2021.svg	/^       id="path895" \/>$/;"	i
+path897	_site/images/brind-2021.svg	/^       id="path897" \/>$/;"	i
+path897	images/brind-2021.svg	/^       id="path897" \/>$/;"	i
+path899	_site/images/brind-2021.svg	/^       id="path899" \/>$/;"	i
+path899	images/brind-2021.svg	/^       id="path899" \/>$/;"	i
+path901	_site/images/brind-2021.svg	/^       id="path901" \/>$/;"	i
+path901	images/brind-2021.svg	/^       id="path901" \/>$/;"	i
+path903	_site/images/brind-2021.svg	/^       id="path903" \/>$/;"	i
+path903	images/brind-2021.svg	/^       id="path903" \/>$/;"	i
+path905	_site/images/brind-2021.svg	/^       id="path905" \/>$/;"	i
+path905	images/brind-2021.svg	/^       id="path905" \/>$/;"	i
+path907	_site/images/brind-2021.svg	/^       id="path907" \/>$/;"	i
+path907	images/brind-2021.svg	/^       id="path907" \/>$/;"	i
+path909	_site/images/brind-2021.svg	/^       id="path909" \/>$/;"	i
+path909	images/brind-2021.svg	/^       id="path909" \/>$/;"	i
+path911	_site/images/brind-2021.svg	/^       id="path911" \/>$/;"	i
+path911	images/brind-2021.svg	/^       id="path911" \/>$/;"	i
+path913	_site/images/brind-2021.svg	/^       id="path913" \/>$/;"	i
+path913	images/brind-2021.svg	/^       id="path913" \/>$/;"	i
+path915	_site/images/brind-2021.svg	/^       id="path915" \/>$/;"	i
+path915	images/brind-2021.svg	/^       id="path915" \/>$/;"	i
+path917	_site/images/brind-2021.svg	/^       id="path917" \/>$/;"	i
+path917	images/brind-2021.svg	/^       id="path917" \/>$/;"	i
+path919	_site/images/brind-2021.svg	/^       id="path919" \/>$/;"	i
+path919	images/brind-2021.svg	/^       id="path919" \/>$/;"	i
+path921	_site/images/brind-2021.svg	/^       id="path921" \/>$/;"	i
+path921	images/brind-2021.svg	/^       id="path921" \/>$/;"	i
+path923	_site/images/brind-2021.svg	/^       id="path923" \/>$/;"	i
+path923	images/brind-2021.svg	/^       id="path923" \/>$/;"	i
+path925	_site/images/brind-2021.svg	/^       id="path925" \/>$/;"	i
+path925	images/brind-2021.svg	/^       id="path925" \/>$/;"	i
+path927	_site/images/brind-2021.svg	/^       id="path927" \/>$/;"	i
+path927	images/brind-2021.svg	/^       id="path927" \/>$/;"	i
+path929	_site/images/brind-2021.svg	/^       id="path929" \/>$/;"	i
+path929	images/brind-2021.svg	/^       id="path929" \/>$/;"	i
+path931	_site/images/brind-2021.svg	/^       id="path931" \/>$/;"	i
+path931	images/brind-2021.svg	/^       id="path931" \/>$/;"	i
+path933	_site/images/brind-2021.svg	/^       id="path933" \/>$/;"	i
+path933	images/brind-2021.svg	/^       id="path933" \/>$/;"	i
+path935	_site/images/brind-2021.svg	/^       id="path935" \/>$/;"	i
+path935	images/brind-2021.svg	/^       id="path935" \/>$/;"	i
+path937	_site/images/brind-2021.svg	/^       id="path937" \/>$/;"	i
+path937	images/brind-2021.svg	/^       id="path937" \/>$/;"	i
+path939	_site/images/brind-2021.svg	/^       id="path939" \/>$/;"	i
+path939	images/brind-2021.svg	/^       id="path939" \/>$/;"	i
+path941	_site/images/brind-2021.svg	/^       id="path941" \/>$/;"	i
+path941	images/brind-2021.svg	/^       id="path941" \/>$/;"	i
+path943	_site/images/brind-2021.svg	/^       id="path943" \/>$/;"	i
+path943	images/brind-2021.svg	/^       id="path943" \/>$/;"	i
+path945	_site/images/brind-2021.svg	/^       id="path945" \/>$/;"	i
+path945	images/brind-2021.svg	/^       id="path945" \/>$/;"	i
+path947	_site/images/brind-2021.svg	/^       id="path947" \/>$/;"	i
+path947	images/brind-2021.svg	/^       id="path947" \/>$/;"	i
+path949	_site/images/brind-2021.svg	/^       id="path949" \/>$/;"	i
+path949	images/brind-2021.svg	/^       id="path949" \/>$/;"	i
+path951	_site/images/brind-2021.svg	/^       id="path951" \/>$/;"	i
+path951	images/brind-2021.svg	/^       id="path951" \/>$/;"	i
+path953	_site/images/brind-2021.svg	/^       id="path953" \/>$/;"	i
+path953	images/brind-2021.svg	/^       id="path953" \/>$/;"	i
+path955	_site/images/brind-2021.svg	/^       id="path955" \/>$/;"	i
+path955	images/brind-2021.svg	/^       id="path955" \/>$/;"	i
+path957	_site/images/brind-2021.svg	/^       id="path957" \/>$/;"	i
+path957	images/brind-2021.svg	/^       id="path957" \/>$/;"	i
+path959	_site/images/brind-2021.svg	/^       id="path959" \/>$/;"	i
+path959	images/brind-2021.svg	/^       id="path959" \/>$/;"	i
+path96	_site/images/brind-2021.svg	/^         id="path96" \/>$/;"	i
+path96	images/brind-2021.svg	/^         id="path96" \/>$/;"	i
+path961	_site/images/brind-2021.svg	/^       id="path961" \/>$/;"	i
+path961	images/brind-2021.svg	/^       id="path961" \/>$/;"	i
+path963	_site/images/brind-2021.svg	/^       id="path963" \/>$/;"	i
+path963	images/brind-2021.svg	/^       id="path963" \/>$/;"	i
+path965	_site/images/brind-2021.svg	/^       id="path965" \/>$/;"	i
+path965	images/brind-2021.svg	/^       id="path965" \/>$/;"	i
+path967	_site/images/brind-2021.svg	/^       id="path967" \/>$/;"	i
+path967	images/brind-2021.svg	/^       id="path967" \/>$/;"	i
+path969	_site/images/brind-2021.svg	/^       id="path969" \/>$/;"	i
+path969	images/brind-2021.svg	/^       id="path969" \/>$/;"	i
+path971	_site/images/brind-2021.svg	/^       id="path971" \/>$/;"	i
+path971	images/brind-2021.svg	/^       id="path971" \/>$/;"	i
+path973	_site/images/brind-2021.svg	/^       id="path973" \/>$/;"	i
+path973	images/brind-2021.svg	/^       id="path973" \/>$/;"	i
+path975	_site/images/brind-2021.svg	/^       id="path975" \/>$/;"	i
+path975	images/brind-2021.svg	/^       id="path975" \/>$/;"	i
+path977	_site/images/brind-2021.svg	/^       id="path977" \/>$/;"	i
+path977	images/brind-2021.svg	/^       id="path977" \/>$/;"	i
+path979	_site/images/brind-2021.svg	/^       id="path979" \/>$/;"	i
+path979	images/brind-2021.svg	/^       id="path979" \/>$/;"	i
+path981	_site/images/brind-2021.svg	/^       id="path981" \/>$/;"	i
+path981	images/brind-2021.svg	/^       id="path981" \/>$/;"	i
+path983	_site/images/brind-2021.svg	/^       id="path983" \/>$/;"	i
+path983	images/brind-2021.svg	/^       id="path983" \/>$/;"	i
+path985	_site/images/brind-2021.svg	/^       id="path985" \/>$/;"	i
+path985	images/brind-2021.svg	/^       id="path985" \/>$/;"	i
+path987	_site/images/brind-2021.svg	/^       id="path987" \/>$/;"	i
+path987	images/brind-2021.svg	/^       id="path987" \/>$/;"	i
+path989	_site/images/brind-2021.svg	/^       id="path989" \/>$/;"	i
+path989	images/brind-2021.svg	/^       id="path989" \/>$/;"	i
+path99	_site/images/brind-2021.svg	/^         id="path99" \/>$/;"	i
+path99	images/brind-2021.svg	/^         id="path99" \/>$/;"	i
+path991	_site/images/brind-2021.svg	/^       id="path991" \/>$/;"	i
+path991	images/brind-2021.svg	/^       id="path991" \/>$/;"	i
+path993	_site/images/brind-2021.svg	/^       id="path993" \/>$/;"	i
+path993	images/brind-2021.svg	/^       id="path993" \/>$/;"	i
+path995	_site/images/brind-2021.svg	/^       id="path995" \/>$/;"	i
+path995	images/brind-2021.svg	/^       id="path995" \/>$/;"	i
+path997	_site/images/brind-2021.svg	/^       id="path997" \/>$/;"	i
+path997	images/brind-2021.svg	/^       id="path997" \/>$/;"	i
+path999	_site/images/brind-2021.svg	/^       id="path999" \/>$/;"	i
+path999	images/brind-2021.svg	/^       id="path999" \/>$/;"	i
+permalink: /404.html	404.md	/^permalink: \/404.html$/;"	s
+permalink: /about/	about.md	/^permalink: \/about\/$/;"	s
+pre	_site/style.css	/^h1, h2, h3, h4, h5, h6, p, blockquote, pre,$/;"	s
+q	_site/style.css	/^blockquote, q {$/;"	s
+q	_site/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+q:after	_site/style.css	/^q:before, q:after {$/;"	s
+q:before	_site/style.css	/^q:before, q:after {$/;"	s
+rdf	_site/images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	_site/images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	_site/images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rect102	_site/images/brind-2021.svg	/^           id="rect102" \/>$/;"	i
+rect102	images/brind-2021.svg	/^           id="rect102" \/>$/;"	i
+rect107	_site/images/brind-2021.svg	/^         id="rect107" \/>$/;"	i
+rect107	images/brind-2021.svg	/^         id="rect107" \/>$/;"	i
+rect116	_site/images/brind-2021.svg	/^           id="rect116" \/>$/;"	i
+rect116	images/brind-2021.svg	/^           id="rect116" \/>$/;"	i
+rect121	_site/images/brind-2021.svg	/^         id="rect121" \/>$/;"	i
+rect121	images/brind-2021.svg	/^         id="rect121" \/>$/;"	i
+rect13	_site/images/brind-2021.svg	/^         id="rect13" \/>$/;"	i
+rect13	images/brind-2021.svg	/^         id="rect13" \/>$/;"	i
+rect19	_site/images/brind-2021.svg	/^           id="rect19" \/>$/;"	i
+rect19	images/brind-2021.svg	/^           id="rect19" \/>$/;"	i
+rect24	_site/images/brind-2021.svg	/^         id="rect24" \/>$/;"	i
+rect24	images/brind-2021.svg	/^         id="rect24" \/>$/;"	i
+rect30	_site/images/brind-2021.svg	/^           id="rect30" \/>$/;"	i
+rect30	images/brind-2021.svg	/^           id="rect30" \/>$/;"	i
+rect35	_site/images/brind-2021.svg	/^         id="rect35" \/>$/;"	i
+rect35	images/brind-2021.svg	/^         id="rect35" \/>$/;"	i
+rect41	_site/images/brind-2021.svg	/^           id="rect41" \/>$/;"	i
+rect41	images/brind-2021.svg	/^           id="rect41" \/>$/;"	i
+rect46	_site/images/brind-2021.svg	/^         id="rect46" \/>$/;"	i
+rect46	images/brind-2021.svg	/^         id="rect46" \/>$/;"	i
+rect52	_site/images/brind-2021.svg	/^           id="rect52" \/>$/;"	i
+rect52	images/brind-2021.svg	/^           id="rect52" \/>$/;"	i
+rect57	_site/images/brind-2021.svg	/^         id="rect57" \/>$/;"	i
+rect57	images/brind-2021.svg	/^         id="rect57" \/>$/;"	i
+rect63	_site/images/brind-2021.svg	/^           id="rect63" \/>$/;"	i
+rect63	images/brind-2021.svg	/^           id="rect63" \/>$/;"	i
+rect68	_site/images/brind-2021.svg	/^         id="rect68" \/>$/;"	i
+rect68	images/brind-2021.svg	/^         id="rect68" \/>$/;"	i
+rect77	_site/images/brind-2021.svg	/^           id="rect77" \/>$/;"	i
+rect77	images/brind-2021.svg	/^           id="rect77" \/>$/;"	i
+rect8	_site/images/brind-2021.svg	/^           id="rect8" \/>$/;"	i
+rect8	images/brind-2021.svg	/^           id="rect8" \/>$/;"	i
+rect82	_site/images/brind-2021.svg	/^         id="rect82" \/>$/;"	i
+rect82	images/brind-2021.svg	/^         id="rect82" \/>$/;"	i
+rect88	_site/images/brind-2021.svg	/^           id="rect88" \/>$/;"	i
+rect88	images/brind-2021.svg	/^           id="rect88" \/>$/;"	i
+rect93	_site/images/brind-2021.svg	/^         id="rect93" \/>$/;"	i
+rect93	images/brind-2021.svg	/^         id="rect93" \/>$/;"	i
+rendltx	_site/images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://NOTSET
+rendltx	images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://NOTSET
+ruby	_site/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+s	_site/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+samp	_site/style.css	/^del, dfn, em, img, ins, kbd, q, s, samp,$/;"	s
+section	_site/style.css	/^footer, header, hgroup, menu, nav, section {$/;"	s
+section	_site/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+small	_site/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+sodipodi	_site/images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	_site/images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	_site/images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+span	_site/style.css	/^html, body, div, span, applet, object, iframe,$/;"	s
+strike	_site/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+strong	_site/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+strong	_site/style.css	/^strong, b {$/;"	s
+sub	_site/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+summary	_site/style.css	/^menu, nav, output, ruby, section, summary,$/;"	s
+sup	_site/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+surface4629	_site/images/brind-2021.svg	/^     id="surface4629">$/;"	i
+surface4629	images/brind-2021.svg	/^     id="surface4629">$/;"	i
+surface4633	_site/images/brind-2021.svg	/^       clip-path="url(#clip2)">$/;"	d
+surface4633	_site/images/brind-2021.svg	/^       clip-path="url(#clip2)">$/;"	i
+surface4633	images/brind-2021.svg	/^       clip-path="url(#clip2)">$/;"	d
+surface4633	images/brind-2021.svg	/^       clip-path="url(#clip2)">$/;"	i
+surface4636	_site/images/brind-2021.svg	/^       clip-path="url(#clip3)">$/;"	d
+surface4636	_site/images/brind-2021.svg	/^       clip-path="url(#clip3)">$/;"	i
+surface4636	images/brind-2021.svg	/^       clip-path="url(#clip3)">$/;"	d
+surface4636	images/brind-2021.svg	/^       clip-path="url(#clip3)">$/;"	i
+surface4639	_site/images/brind-2021.svg	/^       clip-path="url(#clip4)">$/;"	d
+surface4639	_site/images/brind-2021.svg	/^       clip-path="url(#clip4)">$/;"	i
+surface4639	images/brind-2021.svg	/^       clip-path="url(#clip4)">$/;"	d
+surface4639	images/brind-2021.svg	/^       clip-path="url(#clip4)">$/;"	i
+surface4642	_site/images/brind-2021.svg	/^       clip-path="url(#clip5)">$/;"	d
+surface4642	_site/images/brind-2021.svg	/^       clip-path="url(#clip5)">$/;"	i
+surface4642	images/brind-2021.svg	/^       clip-path="url(#clip5)">$/;"	d
+surface4642	images/brind-2021.svg	/^       clip-path="url(#clip5)">$/;"	i
+surface4645	_site/images/brind-2021.svg	/^       clip-path="url(#clip6)">$/;"	d
+surface4645	_site/images/brind-2021.svg	/^       clip-path="url(#clip6)">$/;"	i
+surface4645	images/brind-2021.svg	/^       clip-path="url(#clip6)">$/;"	d
+surface4645	images/brind-2021.svg	/^       clip-path="url(#clip6)">$/;"	i
+surface4648	_site/images/brind-2021.svg	/^       clip-path="url(#clip7)">$/;"	d
+surface4648	_site/images/brind-2021.svg	/^       clip-path="url(#clip7)">$/;"	i
+surface4648	images/brind-2021.svg	/^       clip-path="url(#clip7)">$/;"	d
+surface4648	images/brind-2021.svg	/^       clip-path="url(#clip7)">$/;"	i
+surface4651	_site/images/brind-2021.svg	/^       clip-path="url(#clip9)">$/;"	d
+surface4651	_site/images/brind-2021.svg	/^       clip-path="url(#clip9)">$/;"	i
+surface4651	images/brind-2021.svg	/^       clip-path="url(#clip9)">$/;"	d
+surface4651	images/brind-2021.svg	/^       clip-path="url(#clip9)">$/;"	i
+surface4654	_site/images/brind-2021.svg	/^       clip-path="url(#clip10)">$/;"	d
+surface4654	_site/images/brind-2021.svg	/^       clip-path="url(#clip10)">$/;"	i
+surface4654	images/brind-2021.svg	/^       clip-path="url(#clip10)">$/;"	d
+surface4654	images/brind-2021.svg	/^       clip-path="url(#clip10)">$/;"	i
+surface4657	_site/images/brind-2021.svg	/^       clip-path="url(#clip12)">$/;"	d
+surface4657	_site/images/brind-2021.svg	/^       clip-path="url(#clip12)">$/;"	i
+surface4657	images/brind-2021.svg	/^       clip-path="url(#clip12)">$/;"	d
+surface4657	images/brind-2021.svg	/^       clip-path="url(#clip12)">$/;"	i
+surface4660	_site/images/brind-2021.svg	/^       clip-path="url(#clip14)">$/;"	d
+surface4660	_site/images/brind-2021.svg	/^       clip-path="url(#clip14)">$/;"	i
+surface4660	images/brind-2021.svg	/^       clip-path="url(#clip14)">$/;"	d
+surface4660	images/brind-2021.svg	/^       clip-path="url(#clip14)">$/;"	i
+surface5116	_site/images/Whittle_Lab_Logo_Black.svg	/^     id="surface5116">$/;"	i
+surface5116	images/Whittle_Lab_Logo_Black.svg	/^     id="surface5116">$/;"	i
+svg	_site/images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	_site/images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	_site/images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/2000/svg
+svg1032	_site/images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	i
+svg1032	images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	i
+svg58	_site/images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	i
+svg58	images/Whittle_Lab_Logo_Black.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	i
+svg6752	_site/images/brind-2020.svg	/^   width="275.76767pt">$/;"	i
+svg6752	images/brind-2020.svg	/^   width="275.76767pt">$/;"	i
+symbol6681	_site/images/brind-2020.svg	/^               id="symbol6681">$/;"	i
+symbol6681	images/brind-2020.svg	/^               id="symbol6681">$/;"	i
+symbol6685	_site/images/brind-2020.svg	/^               id="symbol6685">$/;"	i
+symbol6685	images/brind-2020.svg	/^               id="symbol6685">$/;"	i
+symbol6689	_site/images/brind-2020.svg	/^               id="symbol6689">$/;"	i
+symbol6689	images/brind-2020.svg	/^               id="symbol6689">$/;"	i
+symbol6693	_site/images/brind-2020.svg	/^               id="symbol6693">$/;"	i
+symbol6693	images/brind-2020.svg	/^               id="symbol6693">$/;"	i
+symbol6706	_site/images/brind-2020.svg	/^               id="symbol6706">$/;"	i
+symbol6706	images/brind-2020.svg	/^               id="symbol6706">$/;"	i
+symbol6710	_site/images/brind-2020.svg	/^               id="symbol6710">$/;"	i
+symbol6710	images/brind-2020.svg	/^               id="symbol6710">$/;"	i
+symbol6714	_site/images/brind-2020.svg	/^               id="symbol6714">$/;"	i
+symbol6714	images/brind-2020.svg	/^               id="symbol6714">$/;"	i
+symbol6727	_site/images/brind-2020.svg	/^               id="symbol6727">$/;"	i
+symbol6727	images/brind-2020.svg	/^               id="symbol6727">$/;"	i
+symbol6731	_site/images/brind-2020.svg	/^               id="symbol6731">$/;"	i
+symbol6731	images/brind-2020.svg	/^               id="symbol6731">$/;"	i
+symbol6735	_site/images/brind-2020.svg	/^               id="symbol6735">$/;"	i
+symbol6735	images/brind-2020.svg	/^               id="symbol6735">$/;"	i
+symbol6739	_site/images/brind-2020.svg	/^               id="symbol6739">$/;"	i
+symbol6739	images/brind-2020.svg	/^               id="symbol6739">$/;"	i
+symbol6743	_site/images/brind-2020.svg	/^               id="symbol6743">$/;"	i
+symbol6743	images/brind-2020.svg	/^               id="symbol6743">$/;"	i
+symbol6747	_site/images/brind-2020.svg	/^               id="symbol6747">$/;"	i
+symbol6747	images/brind-2020.svg	/^               id="symbol6747">$/;"	i
+symbol6751	_site/images/brind-2020.svg	/^               id="symbol6751">$/;"	i
+symbol6751	images/brind-2020.svg	/^               id="symbol6751">$/;"	i
+symbol6767	_site/images/brind-2020.svg	/^               id="symbol6767">$/;"	i
+symbol6767	images/brind-2020.svg	/^               id="symbol6767">$/;"	i
+symbol6771	_site/images/brind-2020.svg	/^               id="symbol6771">$/;"	i
+symbol6771	images/brind-2020.svg	/^               id="symbol6771">$/;"	i
+symbol6775	_site/images/brind-2020.svg	/^               id="symbol6775">$/;"	i
+symbol6775	images/brind-2020.svg	/^               id="symbol6775">$/;"	i
+symbol6779	_site/images/brind-2020.svg	/^               id="symbol6779">$/;"	i
+symbol6779	images/brind-2020.svg	/^               id="symbol6779">$/;"	i
+symbol6783	_site/images/brind-2020.svg	/^               id="symbol6783">$/;"	i
+symbol6783	images/brind-2020.svg	/^               id="symbol6783">$/;"	i
+table	_site/style.css	/^table {$/;"	s
+table	_site/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+tbody	_site/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+td	_site/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+text6980	_site/images/brind-2020.svg	/^       id="text6980"><tspan$/;"	i
+text6980	images/brind-2020.svg	/^       id="text6980"><tspan$/;"	i
+text6984	_site/images/brind-2020.svg	/^       id="text6984"><tspan$/;"	i
+text6984	images/brind-2020.svg	/^       id="text6984"><tspan$/;"	i
+tfoot	_site/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+th	_site/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+thead	_site/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+time	_site/style.css	/^time, mark, audio, video {$/;"	s
+tr	_site/style.css	/^table, caption, tbody, tfoot, thead, tr, th, td,$/;"	s
+tspan6978	_site/images/brind-2020.svg	/^         style="stroke-width:0.9375">\\textbf{(a)}<\/tspan><\/text>$/;"	i
+tspan6978	images/brind-2020.svg	/^         style="stroke-width:0.9375">\\textbf{(a)}<\/tspan><\/text>$/;"	i
+tspan6982	_site/images/brind-2020.svg	/^         style="stroke-width:0.9375">\\textbf{(b)}<\/tspan><\/text>$/;"	i
+tspan6982	images/brind-2020.svg	/^         style="stroke-width:0.9375">\\textbf{(b)}<\/tspan><\/text>$/;"	i
+tt	_site/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+u	_site/style.css	/^b, u, i, center,$/;"	s
+ul	_site/style.css	/^dl, dt, dd, ol, ul, li,$/;"	s
+ul	_site/style.css	/^ol, ul {$/;"	s
+ul	_site/style.css	/^ul {$/;"	s
+ul	_site/style.css	/^ul, ol {$/;"	s
+ul ol	_site/style.css	/^ol ul, ul ol, ul ul, ol ol {$/;"	s
+ul ul	_site/style.css	/^ol ul, ul ol, ul ul, ol ol {$/;"	s
+ul ul	_site/style.css	/^ul ul, ol ul {$/;"	s
+use135	_site/images/brind-2021.svg	/^         id="use135" \/>$/;"	i
+use135	images/brind-2021.svg	/^         id="use135" \/>$/;"	i
+use137	_site/images/brind-2021.svg	/^         id="use137" \/>$/;"	i
+use137	images/brind-2021.svg	/^         id="use137" \/>$/;"	i
+use139	_site/images/brind-2021.svg	/^         id="use139" \/>$/;"	i
+use139	images/brind-2021.svg	/^         id="use139" \/>$/;"	i
+use141	_site/images/brind-2021.svg	/^         id="use141" \/>$/;"	i
+use141	images/brind-2021.svg	/^         id="use141" \/>$/;"	i
+use143	_site/images/brind-2021.svg	/^         id="use143" \/>$/;"	i
+use143	images/brind-2021.svg	/^         id="use143" \/>$/;"	i
+use145	_site/images/brind-2021.svg	/^         id="use145" \/>$/;"	i
+use145	images/brind-2021.svg	/^         id="use145" \/>$/;"	i
+use17142	_site/images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use17142	images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use17144	_site/images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use17144	images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use17146	_site/images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use17146	images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use17168	_site/images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use17168	images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use17170	_site/images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use17170	images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use17172	_site/images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use17172	images/brind-2020.svg	/^             height="100%" \/>$/;"	i
+use199	_site/images/brind-2021.svg	/^         id="use199" \/>$/;"	i
+use199	images/brind-2021.svg	/^         id="use199" \/>$/;"	i
+use201	_site/images/brind-2021.svg	/^         id="use201" \/>$/;"	i
+use201	images/brind-2021.svg	/^         id="use201" \/>$/;"	i
+use255	_site/images/brind-2021.svg	/^         id="use255" \/>$/;"	i
+use255	images/brind-2021.svg	/^         id="use255" \/>$/;"	i
+use265	_site/images/brind-2021.svg	/^         id="use265" \/>$/;"	i
+use265	images/brind-2021.svg	/^         id="use265" \/>$/;"	i
+use5550	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5550	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5550-9	_site/images/brind-2020.svg	/^               id="use5550-9" \/>$/;"	i
+use5550-9	images/brind-2020.svg	/^               id="use5550-9" \/>$/;"	i
+use5554	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5554	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5554-2	_site/images/brind-2020.svg	/^               id="use5554-2" \/>$/;"	i
+use5554-2	images/brind-2020.svg	/^               id="use5554-2" \/>$/;"	i
+use5573	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5573	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5573-4	_site/images/brind-2020.svg	/^               id="use5573-4" \/>$/;"	i
+use5573-4	images/brind-2020.svg	/^               id="use5573-4" \/>$/;"	i
+use5577	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5577	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5577-8	_site/images/brind-2020.svg	/^               id="use5577-8" \/>$/;"	i
+use5577-8	images/brind-2020.svg	/^               id="use5577-8" \/>$/;"	i
+use5718	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5718	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5718-6	_site/images/brind-2020.svg	/^               id="use5718-6" \/>$/;"	i
+use5718-6	images/brind-2020.svg	/^               id="use5718-6" \/>$/;"	i
+use5720	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5720	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5720-9	_site/images/brind-2020.svg	/^               id="use5720-9" \/>$/;"	i
+use5720-9	images/brind-2020.svg	/^               id="use5720-9" \/>$/;"	i
+use5722-2	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5722-2	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5722-2-3	_site/images/brind-2020.svg	/^               id="use5722-2-3" \/>$/;"	i
+use5722-2-3	images/brind-2020.svg	/^               id="use5722-2-3" \/>$/;"	i
+use5724-7	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5724-7	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5724-7-7	_site/images/brind-2020.svg	/^               id="use5724-7-7" \/>$/;"	i
+use5724-7-7	images/brind-2020.svg	/^               id="use5724-7-7" \/>$/;"	i
+use5726	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5726	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5726-4	_site/images/brind-2020.svg	/^               id="use5726-4" \/>$/;"	i
+use5726-4	images/brind-2020.svg	/^               id="use5726-4" \/>$/;"	i
+use5728-6	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5728-6	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5728-6-5	_site/images/brind-2020.svg	/^               id="use5728-6-5" \/>$/;"	i
+use5728-6-5	images/brind-2020.svg	/^               id="use5728-6-5" \/>$/;"	i
+use5753	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5753	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5753-1	_site/images/brind-2020.svg	/^               id="use5753-1" \/>$/;"	i
+use5753-1	images/brind-2020.svg	/^               id="use5753-1" \/>$/;"	i
+use5755	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5755	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5755-4	_site/images/brind-2020.svg	/^               id="use5755-4" \/>$/;"	i
+use5755-4	images/brind-2020.svg	/^               id="use5755-4" \/>$/;"	i
+use5757	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5757	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5757-9	_site/images/brind-2020.svg	/^               id="use5757-9" \/>$/;"	i
+use5757-9	images/brind-2020.svg	/^               id="use5757-9" \/>$/;"	i
+use5759	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5759	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5759-2	_site/images/brind-2020.svg	/^               id="use5759-2" \/>$/;"	i
+use5759-2	images/brind-2020.svg	/^               id="use5759-2" \/>$/;"	i
+use5761	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5761	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5761-0	_site/images/brind-2020.svg	/^               id="use5761-0" \/>$/;"	i
+use5761-0	images/brind-2020.svg	/^               id="use5761-0" \/>$/;"	i
+use5763	_site/images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5763	images/brind-2020.svg	/^                 height="100%" \/>$/;"	i
+use5763-6	_site/images/brind-2020.svg	/^               id="use5763-6" \/>$/;"	i
+use5763-6	images/brind-2020.svg	/^               id="use5763-6" \/>$/;"	i
+var	_site/style.css	/^small, strike, strong, sub, sup, tt, var,$/;"	s
+video	_site/style.css	/^time, mark, audio, video {$/;"	s
+white	_sass/_variables.scss	/^$white: #fff;$/;"	v
+xlink	_site/images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	_site/images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	images/brind-2020.svg	/^   width="275.76767pt">$/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	images/brind-2021.svg	/^   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">$/;"	n	uri:http://www.w3.org/1999/xlink
+xsi	_site/sitemap.xml	/^<urlset xmlns:xsi="http:\/\/www.w3.org\/2001\/XMLSchema-instance" xsi:schemaLocation="http:\/\/w/;"	n	uri:http://www.w3.org/2001/XMLSchema-instance
+{{ page.title }}	_layouts/page.html	/^  <h1>{{ page.title }}<\/h1>$/;"	h
+{{ page.title }}	_layouts/post.html	/^  <h2>{{ page.title }}<\/h2>$/;"	i
+{{ post.title }}	index.html	/^      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<\/a><\/h2>$/;"	i
